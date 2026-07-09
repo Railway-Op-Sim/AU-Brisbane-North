@@ -1,0 +1,17 @@
+rly_file = "Brisbane North.rly"
+ttb_files = [ "Brisbane North Weekday 1000-1300.ttb", "Brisbane North Weekday 1900-2200.ttb", "Brisbane North Weekday 1600-1900.ttb", "Brisbane North Weekday 2200-0100.ttb", "Brisbane North Weekday 0700-1000.ttb", "Brisbane North Weekday 0400-0700.ttb", "Brisbane North Weekday 1300-1600.ttb",]
+graphic_files = [ "Brisbane North Network Map.png",]
+minimum_required = "2.4.0"
+img_files = [ "Brisbane North.bmp",]
+doc_files = [ "Timetable; Brisbane North Weekday 2200-0100.txt", "Train Codes.txt", "Timetable; Brisbane North Weekday 1300-1600.txt", "Timetable; Brisbane North Weekday 0400-0700.csv", "Timetable; Brisbane North Weekday 1600-1900.txt", "Timetable; Brisbane North Weekday 1300-1600.csv", "Timetable; Brisbane North Weekday 0700-1000.txt", "Timetable; Brisbane North Weekday 1900-2200.txt", "Timetable; Brisbane North Weekday 1900-2200.csv", "Timetable; Brisbane North Weekday 2200-0100.csv", "Timetable; Brisbane North Weekday 0700-1000.csv", "Run Sheets.ods", "Brisbane-North.md", "Timetable; Brisbane North Weekday 1600-1900.csv", "Weekday timetable.ods", "Timetable; Brisbane North Weekday 1000-1300.csv", "Timetable; Brisbane North Weekday 0400-0700.txt", "Timetable; Brisbane North Weekday 1000-1300.txt",]
+release_date = "2026-07-09"
+version = "1.0.0"
+country_code = "AU"
+factual = true
+description = ""
+year = 2026
+display_name = "Brisbane North"
+name = "Brisbane North"
+signal_position = "left"
+author = "Oxalin1"
+contributors = []
