@@ -1,0 +1,44 @@
+TRAIN CODES
+
+1st Character
+1 - 6 car EMU/SMU
+2 - Empty 6 car EMU/SMU
+A - Empty 6 car IMU
+B - Empty 3 car IMU
+C - Empty 3 car EMU/SMU
+D - NGR
+E - Empty NGR
+J - 3 car EMU/SMU
+T - 6 car IMU
+U - 3 car IMU
+
+2nd Character
+0 - Bowen Hills/Mayne (mainline)
+1 - Dakabin - Caboolture
+4 - Yandina - Gympie North
+5 - Riverview - Ipswich
+6 - Thomas Street - Rosewood
+7 - Trinder Park - Beenleigh
+8 - Lota - Cleveland
+9 - Roma Street (mainline)
+A - Bindha - Shorncliffe
+B - Clayfield - Doomben
+D - Milton - Redbank
+E - Windsor - Ferny Grove
+G - Ormeau - Varsity Lakes
+H - Buranda - Manly
+K - Richlands - Springfield
+L - Elimbah - Nambour
+M - Bowen Hills (suburban)
+P - Airport
+R - Roma Street (suburban)
+S - Park Road
+V - Dutton Park - Kuraby
+W - Albion - Northgate
+Y - Virginia - Redcliffe
+
+Specials
+5X - Ipswich partial express
+8X - Cleveland partial express
+HM - Manly
+VM - Kuraby

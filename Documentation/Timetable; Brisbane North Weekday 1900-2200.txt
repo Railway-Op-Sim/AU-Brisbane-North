@@ -1,0 +1,1292 @@
+Railway: Brisbane North; Timetable: Brisbane North Weekday 1900-2200;  Start time: 18:55
+
+18:55 T776 Created at Windsor
+18:55 T776 Departs from Windsor
+18:55 1S54 Created at Oxford Park
+18:55 1S54 Departs from Oxford Park
+18:55 J778 Created at Ferny Grove
+18:55 1EC3 Created at 152-N2
+18:55 TEC5 Created at Alderley
+18:55 D151 Created at Zillmere
+18:55 1153 Created at 36-16
+18:55 D556 Enters at Sunshine Coast
+18:55 DY77 Created at Zillmere
+18:55 DY77 Departs from Zillmere
+18:55 DY79 Enters at City Down Main
+18:55 DK82 Created at Virginia
+18:55 DK82 Departs from Virginia
+18:55 2558 Created at Petrie
+18:55 1880 Created at Bindha
+18:55 1880 Departs from Bindha
+18:55 D882 Created at Sandgate
+18:55 1A87 Created at 178-39
+18:55 DA89 Created at Eagle Junction
+18:55 EA57 Created at Banyo Stabling
+18:55 DG80 Created at Domestic Airport
+18:55 DR58 Created at Doomben
+18:56 TEC5 Departs from Alderley
+18:56 D556 Arrives & departs Petrie
+18:56 DY79 Arrives & departs Bowen Hills
+18:56 D882 Departs from Sandgate
+18:56 DA89 Departs from Eagle Junction
+18:57 1K80 Enters at Mayne North
+18:57 1S54 Arrives & departs Mitchelton
+18:57 1EC3 Arrives at Ferny Grove
+18:57 DY77 Arrives & departs Carseldine
+18:57 DK82 Arrives & departs Northgate
+18:57 1880 Arrives & departs Northgate
+18:57 1A87 Arrives & departs Boondall
+18:57 TB55 Enters at City Down Suburban
+18:58 T776 Arrives & departs Bowen Hills
+18:58 TEC5 Arrives & departs Enoggera
+18:58 1153 Arrives & departs Eagle Junction
+18:58 2558 Departs from Petrie
+18:58 D882 Arrives & departs Deagon
+18:58 DA89 Arrives & departs Toombul
+18:58 DR58 Departs from Doomben
+18:58 TB55 Arrives & departs Bowen Hills
+18:59 T776 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+18:59 1S54 Arrives & departs Gaythorne
+18:59 1880 Arrives & departs Nundah
+18:59 1A87 Arrives & departs North Boondall
+19:00 1K80 Arrives at Bowen Hills
+19:00 1K80 Changes description at Bowen Hills
+19:00 TEC5 Arrives & departs Gaythorne
+19:00 1EC7 Enters at City Down Suburban
+19:00 DY77 Arrives & departs Bald Hills
+19:00 DK84 Enters at Redcliffe
+19:00 D882 Arrives & departs North Boondall
+19:00 DA89 Arrives & departs Nundah
+19:01 1K80 Departs from Bowen Hills
+19:01 1K80 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+19:01 1S54 Arrives & departs Enoggera
+19:01 1EC7 Arrives & departs Bowen Hills
+19:01 DY79 Arrives & departs Eagle Junction
+19:01 DK82 Arrives & departs Eagle Junction
+19:01 1880 Arrives & departs Toombul
+19:01 1A87 Arrives & departs Deagon
+19:01 DR58 Arrives & departs Ascot
+19:02 J778 Departs from Ferny Grove
+19:02 TEC5 Arrives & departs Mitchelton
+19:02 1153 Arrives & departs Northgate
+19:02 DK84 Arrives & departs Petrie
+19:02 D882 Arrives & departs Boondall
+19:02 DA89 Arrives & departs Northgate
+19:02 1A91 Enters at City Down Suburban
+19:02 TB55 Arrives & departs Albion
+19:03 1S54 Arrives & departs Alderley
+19:03 DY77 Arrives & departs Strathpine
+19:03 1880 Arrives & departs Eagle Junction
+19:03 1A87 Arrives & departs Sandgate
+19:03 1A91 Arrives & departs Bowen Hills
+19:03 DR58 Arrives & departs Hendra
+19:04 TEC5 Arrives & departs Oxford Park
+19:04 DK84 Arrives & departs Lawnton
+19:04 DG80 Departs from Domestic Airport
+19:04 TB55 Arrives & departs Wooloowin
+19:05 1S54 Arrives & departs Newmarket
+19:05 1EC3 Changes direction at Ferny Grove
+19:05 1EC7 Arrives & departs Windsor
+19:05 DY77 Arrives & departs Bray Park
+19:05 DY79 Arrives & departs Northgate
+19:05 1880 Arrives & departs Wooloowin
+19:05 D882 Arrives & departs Nudgee
+19:05 1A87 Arrives at Shorncliffe
+19:05 DA89 Arrives & departs Bindha
+19:05 DP89 Enters at City Down Suburban
+19:05 DR58 Arrives & departs Clayfield
+19:06 J778 Arrives & departs Keperra
+19:06 TEC5 Arrives & departs Grovely
+19:06 D151 Arrives & departs Petrie
+19:06 DP89 Arrives & departs Bowen Hills
+19:06 TB55 Arrives at Eagle Junction
+19:07 1S54 Arrives & departs Wilston
+19:07 1EC3 At Ferny Grove forms new service 1R60
+19:07 1R60 New service at Ferny Grove from 1EC3
+19:07 1EC7 Arrives & departs Wilston
+19:07 D151 Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 
+19:07 DY79 Arrives & departs Virginia
+19:07 DK82 Arrives & departs Bowen Hills
+19:07 DK84 Arrives & departs Bray Park
+19:07 1880 Arrives & departs Albion
+19:07 D882 Arrives & departs Banyo
+19:07 1A87 Changes direction at Shorncliffe
+19:07 1A87 At Shorncliffe forms new service 1884
+19:07 1884 New service at Shorncliffe from 1A87
+19:07 DA89 Arrives & departs Banyo
+19:07 1A91 Arrives & departs Albion
+19:07 DR58 Arrives at Eagle Junction
+19:07 TB55 Departs from Eagle Junction
+19:08 J778 Arrives & departs Grovely
+19:08 TEC5 Arrives & departs Keperra
+19:08 DY77 Arrives & departs Lawnton
+19:08 DY79 Arrives & departs Sunshine
+19:08 DK82 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+19:08 DG80 Arrives & departs International Airport
+19:08 DR58 Departs from Eagle Junction
+19:09 1S54 Arrives & departs Windsor
+19:09 1EC7 Arrives & departs Newmarket
+19:09 DK84 Arrives & departs Strathpine
+19:09 D882 Arrives & departs Bindha
+19:09 1884 Departs from Shorncliffe
+19:09 DA89 Arrives & departs Nudgee
+19:09 1A91 Arrives & departs Wooloowin
+19:10 J778 Arrives & departs Oxford Park
+19:10 TL27 Enters at City Down Main
+19:10 DY79 Arrives & departs Geebung
+19:10 DP89 Arrives & departs Albion
+19:10 DR58 Arrives & departs Wooloowin
+19:10 TB55 Arrives & departs Clayfield
+19:11 1EC7 Arrives & departs Alderley
+19:11 TL27 Arrives & departs Bowen Hills
+19:11 DY77 Arrives & departs Petrie
+19:11 1880 Arrives & departs Bowen Hills
+19:11 1884 Arrives & departs Sandgate
+19:11 1A91 Arrives & departs Eagle Junction
+19:12 J778 Arrives & departs Mitchelton
+19:12 TEC5 Arrives at Ferny Grove
+19:12 D556 Arrives & departs Northgate
+19:12 DY77 Exits railway at Redcliffe,
+allowable exit element(s): 317-31 
+19:12 DY79 Arrives & departs Zillmere
+19:12 DK84 Arrives & departs Bald Hills
+19:12 1880 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+19:12 D882 Arrives & departs Northgate
+19:12 DA89 Arrives & departs Boondall
+19:12 DP89 Arrives & departs Wooloowin
+19:12 DR58 Arrives & departs Albion
+19:12 TB55 Arrives & departs Hendra
+19:13 1S54 Arrives & departs Bowen Hills
+19:13 1EC7 Arrives & departs Enoggera
+19:13 DY81 Enters at City Down Main
+19:13 1884 Arrives & departs Deagon
+19:13 1A91 Arrives & departs Toombul
+19:14 1S54 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+19:14 J778 Arrives & departs Gaythorne
+19:14 DY81 Arrives & departs Bowen Hills
+19:14 D882 Arrives & departs Nundah
+19:14 DA89 Arrives & departs North Boondall
+19:14 DP89 Arrives & departs Eagle Junction
+19:14 TB55 Arrives & departs Ascot
+19:15 1M23 Enters at City Down Suburban
+19:15 1EC7 Arrives & departs Gaythorne
+19:15 DY79 Arrives & departs Carseldine
+19:15 1884 Arrives & departs North Boondall
+19:15 1A91 Arrives & departs Nundah
+19:15 DG80 Arrives & departs Eagle Junction
+19:16 1M23 Arrives at Bowen Hills
+19:16 1M23 Changes description at Bowen Hills
+19:16 J778 Arrives & departs Enoggera
+19:16 TL27 Arrives & departs Eagle Junction
+19:16 D556 Arrives & departs Eagle Junction
+19:16 DK84 Arrives & departs Carseldine
+19:16 D882 Arrives & departs Toombul
+19:16 DA89 Arrives & departs Deagon
+19:16 DR58 Arrives & departs Bowen Hills
+19:16 TB55 Arrives at Doomben
+19:17 1M23 Departs from Bowen Hills
+19:17 1R60 Departs from Ferny Grove
+19:17 1EC7 Arrives & departs Mitchelton
+19:17 2558 Passes Northgate
+19:17 1884 Arrives & departs Boondall
+19:17 1A91 Arrives & departs Northgate
+19:17 DA93 Enters at City Down Suburban
+19:17 DG80 Arrives & departs Wooloowin
+19:17 DR58 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+19:18 J778 Arrives & departs Alderley
+19:18 1153 Arrives & departs Petrie
+19:18 DY79 Arrives & departs Bald Hills
+19:18 DK84 Arrives & departs Zillmere
+19:18 D882 Arrives & departs Eagle Junction
+19:18 DA89 Arrives & departs Sandgate
+19:18 DA93 Arrives & departs Bowen Hills
+19:18 TB55 Changes direction at Doomben
+19:19 1EC7 Arrives & departs Oxford Park
+19:19 1153 Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 
+19:19 DY81 Arrives & departs Eagle Junction
+19:19 DG80 Arrives & departs Albion
+19:19 TB55 At Doomben forms new service TR62
+19:19 TR62 New service at Doomben from TB55
+19:20 J778 Arrives & departs Newmarket
+19:20 TEC5 Changes direction at Ferny Grove
+19:20 TL27 Arrives & departs Northgate
+19:20 DK84 Arrives & departs Geebung
+19:20 D882 Arrives & departs Wooloowin
+19:20 1884 Arrives & departs Nudgee
+19:20 DA89 Arrives at Shorncliffe
+19:20 1A91 Arrives & departs Bindha
+19:21 1M23 Exits railway at Mayne Flyover,
+allowable exit element(s): 23-9 
+19:21 1R60 Arrives & departs Keperra
+19:21 1EC7 Arrives & departs Grovely
+19:21 DY79 Arrives & departs Strathpine
+19:22 J778 Arrives & departs Wilston
+19:22 TEC5 At Ferny Grove forms new service T780
+19:22 T780 New service at Ferny Grove from TEC5
+19:22 D556 Arrives & departs Bowen Hills
+19:22 2558 Passes Eagle Junction Up Main
+19:22 DK84 Arrives & departs Sunshine
+19:22 D882 Arrives & departs Albion
+19:22 1884 Arrives & departs Banyo
+19:22 DA89 Changes direction at Shorncliffe
+19:22 DA89 At Shorncliffe forms new service DRN6
+19:22 DRN6 New service at Shorncliffe from DA89
+19:22 1A91 Arrives & departs Banyo
+19:22 DA93 Arrives & departs Albion
+19:22 DP89 Arrives & departs International Airport
+19:23 1R60 Arrives & departs Grovely
+19:23 1EC7 Arrives & departs Keperra
+19:23 D556 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+19:23 DY79 Arrives & departs Bray Park
+19:23 DY81 Arrives & departs Northgate
+19:23 DG80 Arrives & departs Bowen Hills
+19:24 J778 Arrives & departs Windsor
+19:24 DK84 Arrives & departs Virginia
+19:24 1884 Arrives & departs Bindha
+19:24 DRN6 Departs from Shorncliffe
+19:24 1A91 Arrives & departs Nudgee
+19:24 DA93 Arrives & departs Wooloowin
+19:24 DG80 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+19:25 1R60 Arrives & departs Oxford Park
+19:25 T560 Enters at Sunshine Coast
+19:25 DY81 Arrives & departs Virginia
+19:25 DY83 Enters at City Down Main
+19:25 DP89 Arrives at Domestic Airport
+19:26 T560 Arrives & departs Petrie
+19:26 DY79 Arrives & departs Lawnton
+19:26 DY81 Arrives & departs Sunshine
+19:26 DY83 Arrives & departs Bowen Hills
+19:26 D882 Arrives & departs Bowen Hills
+19:26 DRN6 Arrives & departs Sandgate
+19:26 DA93 Arrives & departs Eagle Junction
+19:27 1R60 Arrives & departs Mitchelton
+19:27 1EC7 Arrives at Ferny Grove
+19:27 DK84 Arrives & departs Northgate
+19:27 D882 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+19:27 1884 Arrives & departs Northgate
+19:27 1A91 Arrives & departs Boondall
+19:27 DP89 Changes direction at Domestic Airport
+19:27 DB57 Enters at City Down Suburban
+19:28 J778 Arrives & departs Bowen Hills
+19:28 1155 Enters at City Down Main
+19:28 DY81 Arrives & departs Geebung
+19:28 2558 Arrives at Bowen Hills
+19:28 DRN6 Arrives & departs Deagon
+19:28 DA93 Arrives & departs Toombul
+19:28 DP89 At Domestic Airport forms new service DG82
+19:28 DG82 New service at Domestic Airport from DP89
+19:28 TR62 Departs from Doomben
+19:28 DB57 Arrives & departs Bowen Hills
+19:29 J778 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+19:29 1R60 Arrives & departs Gaythorne
+19:29 1155 Arrives & departs Bowen Hills
+19:29 DY79 Arrives & departs Petrie
+19:29 2558 Change maximum speed to 100 at Bowen Hills
+19:29 1884 Arrives & departs Nundah
+19:29 1A91 Arrives & departs North Boondall
+19:30 1558 New service at Bowen Hills from 2558
+19:30 1EC9 Enters at City Down Suburban
+19:30 DY79 Exits railway at Redcliffe,
+allowable exit element(s): 317-31 
+19:30 DY81 Arrives & departs Zillmere
+19:30 2558 At Bowen Hills forms new service 1558
+19:30 TK86 Enters at Redcliffe
+19:30 DRN6 Arrives & departs North Boondall
+19:30 DA93 Arrives & departs Nundah
+19:31 1R60 Arrives & departs Enoggera
+19:31 1EC9 Arrives & departs Bowen Hills
+19:31 DY83 Arrives & departs Eagle Junction
+19:31 DK84 Arrives & departs Eagle Junction
+19:31 1884 Arrives & departs Toombul
+19:31 1A91 Arrives & departs Deagon
+19:31 TR62 Arrives & departs Ascot
+19:32 T780 Departs from Ferny Grove
+19:32 TK86 Arrives & departs Petrie
+19:32 DRN6 Arrives & departs Boondall
+19:32 DA93 Arrives & departs Northgate
+19:32 1A95 Enters at City Down Suburban
+19:32 DB57 Arrives & departs Albion
+19:33 1R60 Arrives & departs Alderley
+19:33 DY81 Arrives & departs Carseldine
+19:33 1884 Arrives & departs Eagle Junction
+19:33 1A91 Arrives & departs Sandgate
+19:33 1A95 Arrives & departs Bowen Hills
+19:33 TR62 Arrives & departs Hendra
+19:34 1558 Departs from Bowen Hills
+19:34 1155 Arrives & departs Eagle Junction
+19:34 TK86 Arrives & departs Lawnton
+19:34 DG82 Departs from Domestic Airport
+19:34 DB57 Arrives & departs Wooloowin
+19:35 1558 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+19:35 1R60 Arrives & departs Newmarket
+19:35 1EC9 Arrives & departs Windsor
+19:35 DY83 Arrives & departs Northgate
+19:35 1884 Arrives & departs Wooloowin
+19:35 DRN6 Arrives & departs Nudgee
+19:35 1A91 Arrives at Shorncliffe
+19:35 DA93 Arrives & departs Bindha
+19:35 DP91 Enters at City Down Suburban
+19:35 TR62 Arrives & departs Clayfield
+19:36 T780 Arrives & departs Keperra
+19:36 TL27 Arrives & departs Petrie
+19:36 DY81 Arrives & departs Bald Hills
+19:36 DP91 Arrives & departs Bowen Hills
+19:36 DB57 Arrives at Eagle Junction
+19:37 1R60 Arrives & departs Wilston
+19:37 1EC9 Arrives & departs Wilston
+19:37 TL27 Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 
+19:37 DY83 Arrives & departs Virginia
+19:37 DK84 Arrives & departs Bowen Hills
+19:37 TK86 Arrives & departs Bray Park
+19:37 1884 Arrives & departs Albion
+19:37 DRN6 Arrives & departs Banyo
+19:37 1A91 Changes direction at Shorncliffe
+19:37 1A91 At Shorncliffe forms new service 1886
+19:37 1886 New service at Shorncliffe from 1A91
+19:37 DA93 Arrives & departs Banyo
+19:37 1A95 Arrives & departs Albion
+19:37 TR62 Arrives at Eagle Junction
+19:37 DB57 Departs from Eagle Junction
+19:38 T780 Arrives & departs Grovely
+19:38 1155 Arrives & departs Northgate
+19:38 DY83 Arrives & departs Sunshine
+19:38 DK84 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+19:38 DG82 Arrives & departs International Airport
+19:38 TR62 Departs from Eagle Junction
+19:39 1R60 Arrives & departs Windsor
+19:39 1EC9 Arrives & departs Newmarket
+19:39 DY81 Arrives & departs Strathpine
+19:39 TK86 Arrives & departs Strathpine
+19:39 DRN6 Arrives & departs Bindha
+19:39 1886 Departs from Shorncliffe
+19:39 DA93 Arrives & departs Nudgee
+19:39 1A95 Arrives & departs Wooloowin
+19:40 T780 Arrives & departs Oxford Park
+19:40 D157 Enters at City Down Main
+19:40 DY83 Arrives & departs Geebung
+19:40 DP91 Arrives & departs Albion
+19:40 TR62 Arrives & departs Wooloowin
+19:40 DB57 Arrives & departs Clayfield
+19:41 1EC9 Arrives & departs Alderley
+19:41 D157 Arrives & departs Bowen Hills
+19:41 DY81 Arrives & departs Bray Park
+19:41 1884 Arrives & departs Bowen Hills
+19:41 1886 Arrives & departs Sandgate
+19:41 1A95 Arrives & departs Eagle Junction
+19:42 DR58 Enters at Exhibition
+19:42 T780 Arrives & departs Mitchelton
+19:42 T560 Arrives & departs Northgate
+19:42 DY83 Arrives & departs Zillmere
+19:42 TK86 Arrives & departs Bald Hills
+19:42 1884 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+19:42 DRN6 Arrives & departs Northgate
+19:42 DA93 Arrives & departs Boondall
+19:42 DP91 Arrives & departs Wooloowin
+19:42 TR62 Arrives & departs Albion
+19:42 DB57 Arrives & departs Hendra
+19:43 1R60 Arrives & departs Bowen Hills
+19:43 1EC9 Arrives & departs Enoggera
+19:43 1886 Arrives & departs Deagon
+19:43 1A95 Arrives & departs Toombul
+19:44 1R60 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+19:44 T780 Arrives & departs Gaythorne
+19:44 DY81 Arrives & departs Lawnton
+19:44 DRN6 Arrives & departs Nundah
+19:44 DA93 Arrives & departs North Boondall
+19:44 DP91 Arrives & departs Eagle Junction
+19:44 DB57 Arrives & departs Ascot
+19:45 TM25 Enters at City Down Suburban
+19:45 1EC9 Arrives & departs Gaythorne
+19:45 DY83 Arrives & departs Carseldine
+19:45 1886 Arrives & departs North Boondall
+19:45 1A95 Arrives & departs Nundah
+19:45 DG82 Arrives & departs Eagle Junction
+19:46 DR58 Exits railway at Mayne North,
+allowable exit element(s): 34-14 34-15 
+19:46 TM25 Arrives at Bowen Hills
+19:46 TM25 Changes description at Bowen Hills
+19:46 T780 Arrives & departs Enoggera
+19:46 D157 Arrives & departs Eagle Junction
+19:46 T560 Arrives & departs Eagle Junction
+19:46 TK86 Arrives & departs Carseldine
+19:46 ERN0 Enters at Redcliffe
+19:46 DRN6 Arrives & departs Toombul
+19:46 DA93 Arrives & departs Deagon
+19:46 TR62 Arrives & departs Bowen Hills
+19:46 DB57 Arrives at Doomben
+19:47 TM25 Departs from Bowen Hills
+19:47 1EC9 Arrives & departs Mitchelton
+19:47 DY81 Arrives & departs Petrie
+19:47 ERN0 Passes Petrie
+19:47 1886 Arrives & departs Boondall
+19:47 1A95 Arrives & departs Northgate
+19:47 DA97 Enters at City Down Suburban
+19:47 DG82 Arrives & departs Wooloowin
+19:47 TR62 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+19:48 T780 Arrives & departs Alderley
+19:48 DY81 Exits railway at Redcliffe,
+allowable exit element(s): 317-31 
+19:48 DY83 Arrives & departs Bald Hills
+19:48 TK86 Arrives & departs Zillmere
+19:48 DRN6 Arrives & departs Eagle Junction
+19:48 DA93 Arrives & departs Sandgate
+19:48 DA97 Arrives & departs Bowen Hills
+19:48 DB57 Changes direction at Doomben
+19:49 1EC9 Arrives & departs Oxford Park
+19:49 DG82 Arrives & departs Albion
+19:49 DB57 At Doomben forms new service DR90
+19:49 DR90 New service at Doomben from DB57
+19:50 T780 Arrives & departs Newmarket
+19:50 1EC7 Changes direction at Ferny Grove
+19:50 D157 Arrives & departs Northgate
+19:50 TK86 Arrives & departs Geebung
+19:50 DRN6 Arrives & departs Wooloowin
+19:50 1886 Arrives & departs Nudgee
+19:50 DA93 Arrives at Shorncliffe
+19:50 1A95 Arrives & departs Bindha
+19:51 TM25 Exits railway at Mayne Flyover,
+allowable exit element(s): 23-9 
+19:51 1EC9 Arrives & departs Grovely
+19:51 DY83 Arrives & departs Strathpine
+19:51 8CP1 Enters at Exhibition
+19:52 T780 Arrives & departs Wilston
+19:52 1EC7 At Ferny Grove forms new service 1782
+19:52 1782 New service at Ferny Grove from 1EC7
+19:52 T560 Arrives & departs Bowen Hills
+19:52 TK86 Arrives & departs Sunshine
+19:52 DRN6 Arrives & departs Albion
+19:52 1886 Arrives & departs Banyo
+19:52 DA93 Changes direction at Shorncliffe
+19:52 1A95 Arrives & departs Banyo
+19:52 DA97 Arrives & departs Albion
+19:52 DP91 Arrives & departs International Airport
+19:53 1EC9 Arrives & departs Keperra
+19:53 T560 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+19:53 DY83 Arrives & departs Bray Park
+19:53 DA93 At Shorncliffe forms new service EA02
+19:53 EA02 New service at Shorncliffe from DA93
+19:53 DG82 Arrives & departs Bowen Hills
+19:54 T780 Arrives & departs Windsor
+19:54 1155 Arrives & departs Petrie
+19:54 TK86 Arrives & departs Virginia
+19:54 1886 Arrives & departs Bindha
+19:54 1A95 Arrives & departs Nudgee
+19:54 DA97 Arrives & departs Wooloowin
+19:54 DG82 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+19:55 1155 Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 
+19:55 D562 Enters at Sunshine Coast
+19:55 DY85 Enters at City Down Main
+19:55 DP91 Arrives at Domestic Airport
+19:56 D562 Arrives & departs Petrie
+19:56 DY83 Arrives & departs Lawnton
+19:56 DY85 Arrives & departs Bowen Hills
+19:56 DRN6 Arrives & departs Bowen Hills
+19:56 DA97 Arrives & departs Eagle Junction
+19:56 EA57 Changes direction at Banyo Stabling
+19:57 1EC9 Arrives at Ferny Grove
+19:57 TK86 Arrives & departs Northgate
+19:57 DRN6 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+19:57 1886 Arrives & departs Northgate
+19:57 EA02 Change maximum speed to 50 at Shorncliffe
+19:57 1A95 Arrives & departs Boondall
+19:57 EA57 At Banyo Stabling forms new service ER66
+19:57 ER66 New service at Banyo Stabling from EA57
+19:57 DP91 Changes direction at Domestic Airport
+19:57 8CP1 Passes Eagle Junction Down Main
+19:58 T780 Arrives & departs Bowen Hills
+19:58 EA02 Departs from Shorncliffe
+19:58 DA97 Arrives & departs Toombul
+19:58 DP91 At Domestic Airport forms new service DG84
+19:58 DG84 New service at Domestic Airport from DP91
+19:58 DR90 Departs from Doomben
+19:59 T780 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+19:59 DY83 Arrives & departs Petrie
+19:59 1886 Arrives & departs Nundah
+19:59 1A95 Arrives & departs North Boondall
+20:00 1ED1 Enters at City Down Suburban
+20:00 DY83 Exits railway at Redcliffe,
+allowable exit element(s): 317-31 
+20:00 DK88 Enters at Redcliffe
+20:00 DA97 Arrives & departs Nundah
+20:01 1ED1 Arrives & departs Bowen Hills
+20:01 DY85 Arrives & departs Eagle Junction
+20:01 TK86 Arrives & departs Eagle Junction
+20:01 1886 Arrives & departs Toombul
+20:01 1A95 Arrives & departs Deagon
+20:01 DR90 Arrives & departs Ascot
+20:01 8CP1 Passes Northgate
+20:02 1782 Departs from Ferny Grove
+20:02 ERN0 Passes Northgate
+20:02 DK88 Arrives & departs Petrie
+20:02 DA97 Arrives & departs Northgate
+20:02 1W43 Enters at City Down Suburban
+20:03 1886 Arrives & departs Eagle Junction
+20:03 1A95 Arrives & departs Sandgate
+20:03 1W43 Arrives & departs Bowen Hills
+20:03 DR90 Arrives & departs Hendra
+20:04 DK88 Arrives & departs Lawnton
+20:04 DG84 Departs from Domestic Airport
+20:05 1ED1 Arrives & departs Windsor
+20:05 DY85 Arrives & departs Northgate
+20:05 1886 Arrives & departs Wooloowin
+20:05 1A95 Arrives at Shorncliffe
+20:05 DA97 Arrives & departs Bindha
+20:05 DP93 Enters at City Down Suburban
+20:05 DR90 Arrives & departs Clayfield
+20:06 1782 Arrives & departs Keperra
+20:06 D157 Arrives & departs Petrie
+20:06 ERN0 Passes Eagle Junction Up Main
+20:06 DP93 Arrives & departs Bowen Hills
+20:07 1ED1 Arrives & departs Wilston
+20:07 D157 Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 
+20:07 DY85 Arrives & departs Virginia
+20:07 TK86 Arrives & departs Bowen Hills
+20:07 DK88 Arrives & departs Bray Park
+20:07 1886 Arrives & departs Albion
+20:07 1A95 Changes direction at Shorncliffe
+20:07 1A95 At Shorncliffe forms new service 1888
+20:07 1888 New service at Shorncliffe from 1A95
+20:07 DA97 Arrives & departs Banyo
+20:07 ER66 Departs from Banyo Stabling
+20:07 1W43 Arrives & departs Albion
+20:07 DR90 Arrives at Eagle Junction
+20:08 1782 Arrives & departs Grovely
+20:08 DY85 Arrives & departs Sunshine
+20:08 TK86 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+20:08 DG84 Arrives & departs International Airport
+20:08 DR90 Departs from Eagle Junction
+20:09 1ED1 Arrives & departs Newmarket
+20:09 DK88 Arrives & departs Strathpine
+20:09 1888 Departs from Shorncliffe
+20:09 DA97 Arrives & departs Nudgee
+20:09 1W43 Arrives & departs Wooloowin
+20:10 1782 Arrives & departs Oxford Park
+20:10 D159 Enters at City Down Main
+20:10 DY85 Arrives & departs Geebung
+20:10 DP93 Arrives & departs Albion
+20:10 DR90 Arrives & departs Wooloowin
+20:11 1ED1 Arrives & departs Alderley
+20:11 D159 Arrives & departs Bowen Hills
+20:11 1886 Arrives & departs Bowen Hills
+20:11 EA02 Arrives at Banyo Stabling
+20:11 EA02 Terminates at Banyo Stabling
+20:11 1888 Arrives & departs Sandgate
+20:11 ER66 Arrives at Northgate
+20:11 ER66 At Northgate forms new service DR66
+20:11 DR66 New service at Northgate from ER66
+20:11 DR66 Change maximum speed to 140 at Northgate
+20:11 1W43 Arrives & departs Eagle Junction
+20:12 1782 Arrives & departs Mitchelton
+20:12 D562 Arrives & departs Northgate
+20:12 DY85 Arrives & departs Zillmere
+20:12 ERN0 Passes Bowen Hills
+20:12 DK88 Arrives & departs Bald Hills
+20:12 1886 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+20:12 DA97 Arrives & departs Boondall
+20:12 DR66 Departs from Northgate
+20:12 DP93 Arrives & departs Wooloowin
+20:12 DR90 Arrives & departs Albion
+20:13 1ED1 Arrives & departs Enoggera
+20:13 ERN0 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+20:13 1888 Arrives & departs Deagon
+20:13 1W43 Arrives & departs Toombul
+20:14 1782 Arrives & departs Gaythorne
+20:14 DA97 Arrives & departs North Boondall
+20:14 DR66 Arrives & departs Nundah
+20:14 DP93 Arrives & departs Eagle Junction
+20:15 1M27 Enters at City Down Suburban
+20:15 1ED1 Arrives & departs Gaythorne
+20:15 DY85 Arrives & departs Carseldine
+20:15 1888 Arrives & departs North Boondall
+20:15 1W43 Arrives & departs Nundah
+20:15 DG84 Arrives & departs Eagle Junction
+20:16 1M27 Arrives at Bowen Hills
+20:16 1M27 Changes description at Bowen Hills
+20:16 1782 Arrives & departs Enoggera
+20:16 D159 Arrives & departs Eagle Junction
+20:16 D562 Arrives & departs Eagle Junction
+20:16 DK88 Arrives & departs Carseldine
+20:16 DA97 Arrives & departs Deagon
+20:16 DR66 Arrives & departs Toombul
+20:16 DR90 Arrives & departs Bowen Hills
+20:17 1M27 Departs from Bowen Hills
+20:17 1ED1 Arrives & departs Mitchelton
+20:17 1888 Arrives & departs Boondall
+20:17 DA99 Enters at City Down Suburban
+20:17 1W43 Arrives at Northgate
+20:17 DG84 Arrives & departs Wooloowin
+20:17 DR90 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+20:17 8CP1 Passes Petrie
+20:18 1782 Arrives & departs Alderley
+20:18 DY85 Arrives & departs Bald Hills
+20:18 DK88 Arrives & departs Zillmere
+20:18 DA97 Arrives & departs Sandgate
+20:18 DA99 Arrives & departs Bowen Hills
+20:18 DR66 Arrives & departs Eagle Junction
+20:18 1W43 Change maximum speed to 30 at Northgate
+20:18 8CP1 Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 
+20:19 1ED1 Arrives & departs Oxford Park
+20:19 1W43 At Northgate forms new service 2A59
+20:19 2A59 New service at Northgate from 1W43
+20:19 2A59 Departs from Northgate
+20:19 DG84 Arrives & departs Albion
+20:20 1782 Arrives & departs Newmarket
+20:20 1EC9 Changes direction at Ferny Grove
+20:20 D159 Arrives & departs Northgate
+20:20 DK88 Arrives & departs Geebung
+20:20 1888 Arrives & departs Nudgee
+20:20 DA97 Arrives at Shorncliffe
+20:20 DR66 Arrives & departs Wooloowin
+20:21 1M27 Exits railway at Mayne Flyover,
+allowable exit element(s): 23-9 
+20:21 DRN6 Enters at Exhibition
+20:21 1ED1 Arrives & departs Grovely
+20:21 DY85 Arrives & departs Strathpine
+20:22 1782 Arrives & departs Wilston
+20:22 1EC9 At Ferny Grove forms new service 1784
+20:22 1784 New service at Ferny Grove from 1EC9
+20:22 D562 Arrives & departs Bowen Hills
+20:22 DK88 Arrives & departs Sunshine
+20:22 1888 Arrives & departs Banyo
+20:22 DA99 Arrives & departs Albion
+20:22 DR66 Arrives & departs Albion
+20:22 2A59 Arrives at Bindha
+20:22 DP93 Arrives & departs International Airport
+20:23 1ED1 Arrives & departs Keperra
+20:23 D562 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+20:23 DY85 Arrives & departs Bray Park
+20:23 DG84 Arrives & departs Bowen Hills
+20:24 1782 Arrives & departs Windsor
+20:24 DK88 Arrives & departs Virginia
+20:24 1888 Arrives & departs Bindha
+20:24 DA99 Arrives & departs Wooloowin
+20:24 2A59 Departs from Bindha
+20:24 DG84 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+20:25 DRN6 Exits railway at Mayne North,
+allowable exit element(s): 34-14 34-15 
+20:25 T564 Enters at Sunshine Coast
+20:25 DY87 Enters at City Down Main
+20:25 DP93 Arrives at Domestic Airport
+20:26 T564 Arrives & departs Petrie
+20:26 DY85 Arrives & departs Lawnton
+20:26 DY87 Arrives & departs Bowen Hills
+20:26 DA99 Arrives & departs Eagle Junction
+20:26 DR66 Arrives & departs Bowen Hills
+20:26 2A59 Arrives at Banyo Stabling
+20:27 1ED1 Arrives at Ferny Grove
+20:27 DK88 Arrives & departs Northgate
+20:27 1888 Arrives & departs Northgate
+20:27 DA97 Changes direction at Shorncliffe
+20:27 DR66 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+20:27 DP93 Changes direction at Domestic Airport
+20:28 1782 Arrives & departs Bowen Hills
+20:28 DA99 Arrives & departs Toombul
+20:28 DP93 At Domestic Airport forms new service DG86
+20:28 DG86 New service at Domestic Airport from DP93
+20:29 1782 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+20:29 DY85 Arrives & departs Petrie
+20:29 1888 Arrives & departs Nundah
+20:29 DA97 At Shorncliffe forms new service D890
+20:29 D890 New service at Shorncliffe from DA97
+20:30 TED3 Enters at City Down Suburban
+20:30 DY85 Exits railway at Redcliffe,
+allowable exit element(s): 317-31 
+20:30 DK90 Enters at Redcliffe
+20:30 DA99 Arrives & departs Nundah
+20:30 2A59 Changes direction at Banyo Stabling
+20:31 TED3 Arrives & departs Bowen Hills
+20:31 DY87 Arrives & departs Eagle Junction
+20:31 DK88 Arrives & departs Eagle Junction
+20:31 1888 Arrives & departs Toombul
+20:32 1784 Departs from Ferny Grove
+20:32 DK90 Arrives & departs Petrie
+20:32 DA99 Arrives & departs Northgate
+20:32 2A59 At Banyo Stabling forms new service 2968
+20:32 2968 New service at Banyo Stabling from 2A59
+20:32 DW45 Enters at City Down Suburban
+20:33 1888 Arrives & departs Eagle Junction
+20:33 DW45 Arrives & departs Bowen Hills
+20:34 ERN0 Enters at Exhibition
+20:34 DK90 Arrives & departs Lawnton
+20:34 DG86 Departs from Domestic Airport
+20:35 TED3 Arrives & departs Windsor
+20:35 DY87 Arrives & departs Northgate
+20:35 1888 Arrives & departs Wooloowin
+20:35 DA99 Arrives & departs Bindha
+20:35 DP95 Enters at City Down Suburban
+20:36 1784 Arrives & departs Keperra
+20:36 D159 Arrives & departs Petrie
+20:36 DP95 Arrives & departs Bowen Hills
+20:37 TED3 Arrives & departs Wilston
+20:37 D159 Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 
+20:37 DY87 Arrives & departs Virginia
+20:37 DK88 Arrives & departs Bowen Hills
+20:37 DK90 Arrives & departs Bray Park
+20:37 1888 Arrives & departs Albion
+20:37 DA99 Arrives & departs Banyo
+20:37 2968 Departs from Banyo Stabling
+20:37 DW45 Arrives & departs Albion
+20:38 ERN0 Exits railway at Mayne North,
+allowable exit element(s): 34-14 34-15 
+20:38 1784 Arrives & departs Grovely
+20:38 DY87 Arrives & departs Sunshine
+20:38 DK88 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+20:38 DG86 Arrives & departs International Airport
+20:39 TED3 Arrives & departs Newmarket
+20:39 DK90 Arrives & departs Strathpine
+20:39 D890 Departs from Shorncliffe
+20:39 DA99 Arrives & departs Nudgee
+20:39 DW45 Arrives & departs Wooloowin
+20:40 1784 Arrives & departs Oxford Park
+20:40 TL29 Enters at City Down Main
+20:40 DY87 Arrives & departs Geebung
+20:40 DP95 Arrives & departs Albion
+20:41 TED3 Arrives & departs Alderley
+20:41 TL29 Arrives & departs Bowen Hills
+20:41 1888 Arrives & departs Bowen Hills
+20:41 D890 Arrives & departs Sandgate
+20:41 2968 Arrives at Northgate
+20:41 2968 Change maximum speed to 100 at Northgate
+20:41 DW45 Arrives & departs Eagle Junction
+20:42 1784 Arrives & departs Mitchelton
+20:42 T564 Arrives & departs Northgate
+20:42 DY87 Arrives & departs Zillmere
+20:42 DK90 Arrives & departs Bald Hills
+20:42 1888 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+20:42 DA99 Arrives & departs Boondall
+20:42 2968 At Northgate forms new service 1968
+20:42 1968 New service at Northgate from 2968
+20:42 1968 Departs from Northgate
+20:42 DP95 Arrives & departs Wooloowin
+20:43 TED3 Arrives & departs Enoggera
+20:43 D890 Arrives & departs Deagon
+20:43 DW45 Arrives & departs Toombul
+20:44 1784 Arrives & departs Gaythorne
+20:44 DA99 Arrives & departs North Boondall
+20:44 1968 Arrives & departs Nundah
+20:44 DP95 Arrives & departs Eagle Junction
+20:45 TED3 Arrives & departs Gaythorne
+20:45 DY87 Arrives & departs Carseldine
+20:45 D890 Arrives & departs North Boondall
+20:45 DW45 Arrives & departs Nundah
+20:45 DG86 Arrives & departs Eagle Junction
+20:46 1784 Arrives & departs Enoggera
+20:46 TL29 Arrives & departs Eagle Junction
+20:46 T564 Arrives & departs Eagle Junction
+20:46 DK90 Arrives & departs Carseldine
+20:46 DA99 Arrives & departs Deagon
+20:46 1968 Arrives & departs Toombul
+20:47 TED3 Arrives & departs Mitchelton
+20:47 D890 Arrives & departs Boondall
+20:47 1AA1 Enters at City Down Suburban
+20:47 DW45 Arrives at Northgate
+20:47 DG86 Arrives & departs Wooloowin
+20:47 YC49 Enters at Exhibition
+20:48 1784 Arrives & departs Alderley
+20:48 DY87 Arrives & departs Bald Hills
+20:48 DK90 Arrives & departs Zillmere
+20:48 DA99 Arrives & departs Sandgate
+20:48 1AA1 Arrives & departs Bowen Hills
+20:48 1968 Arrives & departs Eagle Junction
+20:48 DW45 Change maximum speed to 30 at Northgate
+20:49 TED3 Arrives & departs Oxford Park
+20:49 DW45 At Northgate forms new service EA61
+20:49 EA61 New service at Northgate from DW45
+20:49 EA61 Departs from Northgate
+20:49 DG86 Arrives & departs Albion
+20:50 1784 Arrives & departs Newmarket
+20:50 1ED1 Changes direction at Ferny Grove
+20:50 TL29 Arrives & departs Northgate
+20:50 DK90 Arrives & departs Geebung
+20:50 D890 Arrives & departs Nudgee
+20:50 DA99 Arrives at Shorncliffe
+20:50 1968 Arrives & departs Wooloowin
+20:51 TED3 Arrives & departs Grovely
+20:51 DY87 Arrives & departs Strathpine
+20:52 1784 Arrives & departs Wilston
+20:52 1ED1 At Ferny Grove forms new service 1786
+20:52 1786 New service at Ferny Grove from 1ED1
+20:52 T564 Arrives & departs Bowen Hills
+20:52 DK90 Arrives & departs Sunshine
+20:52 D890 Arrives & departs Banyo
+20:52 1AA1 Arrives & departs Albion
+20:52 1968 Arrives & departs Albion
+20:52 EA61 Arrives at Bindha
+20:52 DP95 Arrives & departs International Airport
+20:53 TED3 Arrives & departs Keperra
+20:53 T564 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+20:53 DY87 Arrives & departs Bray Park
+20:53 DG86 Arrives & departs Bowen Hills
+20:53 YC49 Passes Eagle Junction Down Main
+20:54 1784 Arrives & departs Windsor
+20:54 DK90 Arrives & departs Virginia
+20:54 D890 Arrives & departs Bindha
+20:54 1AA1 Arrives & departs Wooloowin
+20:54 EA61 Departs from Bindha
+20:54 DG86 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+20:55 T566 Enters at Sunshine Coast
+20:55 DY89 Enters at City Down Main
+20:55 DP95 Arrives at Domestic Airport
+20:56 T566 Arrives & departs Petrie
+20:56 DY87 Arrives & departs Lawnton
+20:56 DY89 Arrives & departs Bowen Hills
+20:56 1AA1 Arrives & departs Eagle Junction
+20:56 1968 Arrives & departs Bowen Hills
+20:56 EA61 Arrives at Banyo Stabling
+20:57 TED3 Arrives at Ferny Grove
+20:57 DK90 Arrives & departs Northgate
+20:57 D890 Arrives & departs Northgate
+20:57 DA99 Changes direction at Shorncliffe
+20:57 1968 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+20:57 DP95 Changes direction at Domestic Airport
+20:57 YC49 Passes Northgate
+20:58 1784 Arrives & departs Bowen Hills
+20:58 1AA1 Arrives & departs Toombul
+20:58 DP95 At Domestic Airport forms new service DG88
+20:58 DG88 New service at Domestic Airport from DP95
+20:59 1784 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+20:59 DY87 Arrives & departs Petrie
+20:59 D890 Arrives & departs Nundah
+20:59 DA99 At Shorncliffe forms new service D892
+20:59 D892 New service at Shorncliffe from DA99
+21:00 1ED5 Enters at City Down Suburban
+21:00 DY87 Exits railway at Redcliffe,
+allowable exit element(s): 317-31 
+21:00 DK92 Enters at Redcliffe
+21:00 1AA1 Arrives & departs Nundah
+21:00 EA61 Changes direction at Banyo Stabling
+21:01 1ED5 Arrives & departs Bowen Hills
+21:01 DY89 Arrives & departs Eagle Junction
+21:01 DK90 Arrives & departs Eagle Junction
+21:01 D890 Arrives & departs Toombul
+21:02 1786 Departs from Ferny Grove
+21:02 DK92 Arrives & departs Petrie
+21:02 1AA1 Arrives & departs Northgate
+21:02 EA61 At Banyo Stabling forms new service ER70
+21:02 ER70 New service at Banyo Stabling from EA61
+21:02 1W47 Enters at City Down Suburban
+21:03 D890 Arrives & departs Eagle Junction
+21:03 1W47 Arrives & departs Bowen Hills
+21:04 DK92 Arrives & departs Lawnton
+21:04 DG88 Departs from Domestic Airport
+21:05 1ED5 Arrives & departs Windsor
+21:05 DY89 Arrives & departs Northgate
+21:05 D890 Arrives & departs Wooloowin
+21:05 1AA1 Arrives & departs Bindha
+21:05 DP97 Enters at City Down Suburban
+21:06 1786 Arrives & departs Keperra
+21:06 TL29 Arrives & departs Petrie
+21:06 DP97 Arrives & departs Bowen Hills
+21:07 1ED5 Arrives & departs Wilston
+21:07 TL29 Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 
+21:07 DY89 Arrives & departs Virginia
+21:07 DK90 Arrives & departs Bowen Hills
+21:07 DK92 Arrives & departs Bray Park
+21:07 D890 Arrives & departs Albion
+21:07 1AA1 Arrives & departs Banyo
+21:07 ER70 Departs from Banyo Stabling
+21:07 1W47 Arrives & departs Albion
+21:08 1786 Arrives & departs Grovely
+21:08 DY89 Arrives & departs Sunshine
+21:08 DK90 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+21:08 DG88 Arrives & departs International Airport
+21:09 1ED5 Arrives & departs Newmarket
+21:09 DK92 Arrives & departs Strathpine
+21:09 D892 Departs from Shorncliffe
+21:09 1AA1 Arrives & departs Nudgee
+21:09 1W47 Arrives & departs Wooloowin
+21:10 1786 Arrives & departs Oxford Park
+21:10 D161 Enters at City Down Main
+21:10 DY89 Arrives & departs Geebung
+21:10 DP97 Arrives & departs Albion
+21:11 1ED5 Arrives & departs Alderley
+21:11 D161 Arrives & departs Bowen Hills
+21:11 D890 Arrives & departs Bowen Hills
+21:11 D892 Arrives & departs Sandgate
+21:11 ER70 Arrives at Northgate
+21:11 ER70 Change maximum speed to 140 at Northgate
+21:11 1W47 Arrives & departs Eagle Junction
+21:12 2M07 Enters at City Down Main
+21:12 1786 Arrives & departs Mitchelton
+21:12 T566 Arrives & departs Northgate
+21:12 DY89 Arrives & departs Zillmere
+21:12 DK92 Arrives & departs Bald Hills
+21:12 D890 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+21:12 1AA1 Arrives & departs Boondall
+21:12 ER70 At Northgate forms new service DR70
+21:12 DR70 New service at Northgate from ER70
+21:12 DR70 Departs from Northgate
+21:12 DP97 Arrives & departs Wooloowin
+21:13 2M07 Passes Bowen Hills
+21:13 1ED5 Arrives & departs Enoggera
+21:13 D892 Arrives & departs Deagon
+21:13 1W47 Arrives & departs Toombul
+21:13 YC49 Passes Petrie
+21:14 1786 Arrives & departs Gaythorne
+21:14 1AA1 Arrives & departs North Boondall
+21:14 DR70 Arrives & departs Nundah
+21:14 DP97 Arrives & departs Eagle Junction
+21:14 YC49 Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 
+21:15 1ED5 Arrives & departs Gaythorne
+21:15 DY89 Arrives & departs Carseldine
+21:15 D892 Arrives & departs North Boondall
+21:15 1W47 Arrives & departs Nundah
+21:15 DG88 Arrives & departs Eagle Junction
+21:16 1786 Arrives & departs Enoggera
+21:16 D161 Arrives & departs Eagle Junction
+21:16 T566 Arrives & departs Eagle Junction
+21:16 DK92 Arrives & departs Carseldine
+21:16 1AA1 Arrives & departs Deagon
+21:16 DR70 Arrives & departs Toombul
+21:17 2M07 Exits railway at Mayne Flyover,
+allowable exit element(s): 23-9 
+21:17 1ED5 Arrives & departs Mitchelton
+21:17 D892 Arrives & departs Boondall
+21:17 1AA3 Enters at City Down Suburban
+21:17 1W47 Arrives at Northgate
+21:17 DG88 Arrives & departs Wooloowin
+21:18 1786 Arrives & departs Alderley
+21:18 DY89 Arrives & departs Bald Hills
+21:18 DK92 Arrives & departs Zillmere
+21:18 1AA1 Arrives & departs Sandgate
+21:18 1AA3 Arrives & departs Bowen Hills
+21:18 DR70 Arrives & departs Eagle Junction
+21:18 1W47 Change maximum speed to 30 at Northgate
+21:19 1ED5 Arrives & departs Oxford Park
+21:19 1W47 At Northgate forms new service 2A65
+21:19 2A65 New service at Northgate from 1W47
+21:19 2A65 Departs from Northgate
+21:19 DG88 Arrives & departs Albion
+21:20 1786 Arrives & departs Newmarket
+21:20 TED3 Changes direction at Ferny Grove
+21:20 D161 Arrives & departs Northgate
+21:20 DK92 Arrives & departs Geebung
+21:20 D892 Arrives & departs Nudgee
+21:20 1AA1 Arrives at Shorncliffe
+21:20 DR70 Arrives & departs Wooloowin
+21:21 1ED5 Arrives & departs Grovely
+21:21 DY89 Arrives & departs Strathpine
+21:22 1786 Arrives & departs Wilston
+21:22 TED3 At Ferny Grove forms new service T788
+21:22 T788 New service at Ferny Grove from TED3
+21:22 T566 Arrives & departs Bowen Hills
+21:22 DK92 Arrives & departs Sunshine
+21:22 D892 Arrives & departs Banyo
+21:22 1AA3 Arrives & departs Albion
+21:22 DR70 Arrives & departs Albion
+21:22 2A65 Arrives at Bindha
+21:22 DP97 Arrives & departs International Airport
+21:23 1ED5 Arrives & departs Keperra
+21:23 T566 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+21:23 DY89 Arrives & departs Bray Park
+21:23 DG88 Arrives & departs Bowen Hills
+21:24 1786 Arrives & departs Windsor
+21:24 DK92 Arrives & departs Virginia
+21:24 D892 Arrives & departs Bindha
+21:24 1AA3 Arrives & departs Wooloowin
+21:24 2A65 Departs from Bindha
+21:24 DG88 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+21:25 D568 Enters at Sunshine Coast
+21:25 DY91 Enters at City Down Main
+21:25 DP97 Arrives at Domestic Airport
+21:26 D568 Arrives & departs Petrie
+21:26 DY89 Arrives & departs Lawnton
+21:26 DY91 Arrives & departs Bowen Hills
+21:26 1AA3 Arrives & departs Eagle Junction
+21:26 DR70 Arrives & departs Bowen Hills
+21:26 2A65 Arrives at Banyo Stabling
+21:27 1ED5 Arrives at Ferny Grove
+21:27 DK92 Arrives & departs Northgate
+21:27 D892 Arrives & departs Northgate
+21:27 1AA1 Changes direction at Shorncliffe
+21:27 DR70 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+21:27 DP97 Changes direction at Domestic Airport
+21:28 1786 Arrives & departs Bowen Hills
+21:28 1AA3 Arrives & departs Toombul
+21:28 DP97 At Domestic Airport forms new service DG90
+21:28 DG90 New service at Domestic Airport from DP97
+21:29 1786 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+21:29 DY89 Arrives & departs Petrie
+21:29 D892 Arrives & departs Nundah
+21:29 1AA1 At Shorncliffe forms new service 1894
+21:29 1894 New service at Shorncliffe from 1AA1
+21:30 1ED7 Enters at City Down Suburban
+21:30 DY89 Exits railway at Redcliffe,
+allowable exit element(s): 317-31 
+21:30 DK94 Enters at Redcliffe
+21:30 1AA3 Arrives & departs Nundah
+21:30 2A65 Changes direction at Banyo Stabling
+21:31 1ED7 Arrives & departs Bowen Hills
+21:31 DY91 Arrives & departs Eagle Junction
+21:31 DK92 Arrives & departs Eagle Junction
+21:31 D892 Arrives & departs Toombul
+21:32 T788 Departs from Ferny Grove
+21:32 DK94 Arrives & departs Petrie
+21:32 1AA3 Arrives & departs Northgate
+21:32 2A65 At Banyo Stabling forms new service 2R72
+21:32 2R72 New service at Banyo Stabling from 2A65
+21:32 DW49 Enters at City Down Suburban
+21:33 D892 Arrives & departs Eagle Junction
+21:33 DW49 Arrives & departs Bowen Hills
+21:34 DK94 Arrives & departs Lawnton
+21:34 DG90 Departs from Domestic Airport
+21:35 1ED7 Arrives & departs Windsor
+21:35 DY91 Arrives & departs Northgate
+21:35 D892 Arrives & departs Wooloowin
+21:35 1AA3 Arrives & departs Bindha
+21:35 DP99 Enters at City Down Suburban
+21:36 T788 Arrives & departs Keperra
+21:36 D161 Arrives & departs Petrie
+21:36 DP99 Arrives & departs Bowen Hills
+21:37 1ED7 Arrives & departs Wilston
+21:37 D161 Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 
+21:37 DY91 Arrives & departs Virginia
+21:37 DK92 Arrives & departs Bowen Hills
+21:37 DK94 Arrives & departs Bray Park
+21:37 D892 Arrives & departs Albion
+21:37 1AA3 Arrives & departs Banyo
+21:37 2R72 Departs from Banyo Stabling
+21:37 DW49 Arrives & departs Albion
+21:38 T788 Arrives & departs Grovely
+21:38 DY91 Arrives & departs Sunshine
+21:38 DK92 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+21:38 DG90 Arrives & departs International Airport
+21:39 1ED7 Arrives & departs Newmarket
+21:39 DK94 Arrives & departs Strathpine
+21:39 1894 Departs from Shorncliffe
+21:39 1AA3 Arrives & departs Nudgee
+21:39 DW49 Arrives & departs Wooloowin
+21:40 T788 Arrives & departs Oxford Park
+21:40 D163 Enters at City Down Main
+21:40 DY91 Arrives & departs Geebung
+21:40 DP99 Arrives & departs Albion
+21:41 1ED7 Arrives & departs Alderley
+21:41 D163 Arrives & departs Bowen Hills
+21:41 D892 Arrives & departs Bowen Hills
+21:41 1894 Arrives & departs Sandgate
+21:41 2R72 Arrives at Northgate
+21:41 2R72 Change maximum speed to 100 at Northgate
+21:41 DW49 Arrives & departs Eagle Junction
+21:42 T788 Arrives & departs Mitchelton
+21:42 D568 Arrives & departs Northgate
+21:42 DY91 Arrives & departs Zillmere
+21:42 DK94 Arrives & departs Bald Hills
+21:42 D892 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+21:42 1AA3 Arrives & departs Boondall
+21:42 2R72 At Northgate forms new service 1R72
+21:42 1R72 New service at Northgate from 2R72
+21:42 1R72 Departs from Northgate
+21:42 DP99 Arrives & departs Wooloowin
+21:43 1ED7 Arrives & departs Enoggera
+21:43 1894 Arrives & departs Deagon
+21:43 DW49 Arrives & departs Toombul
+21:44 T788 Arrives & departs Gaythorne
+21:44 1AA3 Arrives & departs North Boondall
+21:44 1R72 Arrives & departs Nundah
+21:44 DP99 Arrives & departs Eagle Junction
+21:45 1ED7 Arrives & departs Gaythorne
+21:45 DY91 Arrives & departs Carseldine
+21:45 1894 Arrives & departs North Boondall
+21:45 DW49 Arrives & departs Nundah
+21:45 DG90 Arrives & departs Eagle Junction
+21:46 T788 Arrives & departs Enoggera
+21:46 D163 Arrives & departs Eagle Junction
+21:46 D568 Arrives & departs Eagle Junction
+21:46 DK94 Arrives & departs Carseldine
+21:46 1AA3 Arrives & departs Deagon
+21:46 1R72 Arrives & departs Toombul
+21:47 1ED7 Arrives & departs Mitchelton
+21:47 1894 Arrives & departs Boondall
+21:47 1AA5 Enters at City Down Suburban
+21:47 DW49 Arrives at Northgate
+21:47 DG90 Arrives & departs Wooloowin
+21:48 T788 Arrives & departs Alderley
+21:48 DY91 Arrives & departs Bald Hills
+21:48 DK94 Arrives & departs Zillmere
+21:48 1AA3 Arrives & departs Sandgate
+21:48 1AA5 Arrives & departs Bowen Hills
+21:48 1R72 Arrives & departs Eagle Junction
+21:48 DW49 Change maximum speed to 30 at Northgate
+21:49 E001 Enters at City Down Main
+21:49 1ED7 Arrives & departs Oxford Park
+21:49 DW49 At Northgate forms new service EA67
+21:49 EA67 New service at Northgate from DW49
+21:49 EA67 Departs from Northgate
+21:49 DG90 Arrives & departs Albion
+21:50 E001 Passes Bowen Hills
+21:50 T788 Arrives & departs Newmarket
+21:50 1ED5 Changes direction at Ferny Grove
+21:50 D163 Arrives & departs Northgate
+21:50 DK94 Arrives & departs Geebung
+21:50 1894 Arrives & departs Nudgee
+21:50 1AA3 Arrives at Shorncliffe
+21:50 1R72 Arrives & departs Wooloowin
+21:51 1ED7 Arrives & departs Grovely
+21:51 DY91 Arrives & departs Strathpine
+21:52 T788 Arrives & departs Wilston
+21:52 1ED5 At Ferny Grove forms new service 1790
+21:52 1790 New service at Ferny Grove from 1ED5
+21:52 D568 Arrives & departs Bowen Hills
+21:52 DK94 Arrives & departs Sunshine
+21:52 1894 Arrives & departs Banyo
+21:52 1AA5 Arrives & departs Albion
+21:52 1R72 Arrives & departs Albion
+21:52 EA67 Arrives at Bindha
+21:52 DP99 Arrives & departs International Airport
+21:53 E001 Exits railway at Mayne North,
+allowable exit element(s): 34-14 34-15 
+21:53 1ED7 Arrives & departs Keperra
+21:53 D568 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+21:53 DY91 Arrives & departs Bray Park
+21:53 DG90 Arrives & departs Bowen Hills
+21:54 T788 Arrives & departs Windsor
+21:54 DK94 Arrives & departs Virginia
+21:54 1894 Arrives & departs Bindha
+21:54 1AA5 Arrives & departs Wooloowin
+21:54 EA67 Departs from Bindha
+21:54 DG90 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+21:55 D570 Enters at Sunshine Coast
+21:55 TY93 Enters at City Down Main
+21:55 DP99 Arrives at Domestic Airport
+21:56 D570 Arrives & departs Petrie
+21:56 DY91 Arrives & departs Lawnton
+21:56 TY93 Arrives & departs Bowen Hills
+21:56 1AA5 Arrives & departs Eagle Junction
+21:56 1R72 Arrives & departs Bowen Hills
+21:56 EA67 Arrives at Banyo Stabling
+21:57 1ED7 Arrives at Ferny Grove
+21:57 1ED7 Terminates at Ferny Grove
+21:57 DK94 Arrives & departs Northgate
+21:57 1894 Arrives & departs Northgate
+21:57 1AA3 Changes direction at Shorncliffe
+21:57 1R72 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+21:57 DP99 Changes direction at Domestic Airport
+21:58 T788 Arrives & departs Bowen Hills
+21:58 1AA5 Arrives & departs Toombul
+21:58 DP99 At Domestic Airport forms new service DG92
+21:58 DG92 New service at Domestic Airport from DP99
+21:59 T788 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+21:59 DY91 Arrives & departs Petrie
+21:59 1894 Arrives & departs Nundah
+21:59 1AA3 At Shorncliffe forms new service 1896
+21:59 1896 New service at Shorncliffe from 1AA3
+22:00 DY91 Exits railway at Redcliffe,
+allowable exit element(s): 317-31 
+22:00 1AA5 Arrives & departs Nundah
+22:00 EA67 Changes direction at Banyo Stabling
+22:01 TY93 Arrives & departs Eagle Junction
+22:01 DK94 Arrives & departs Eagle Junction
+22:01 1894 Arrives & departs Toombul
+22:02 1790 Departs from Ferny Grove
+22:02 1AA5 Arrives & departs Northgate
+22:02 EA67 At Banyo Stabling forms new service ER74
+22:02 ER74 New service at Banyo Stabling from EA67
+22:03 1894 Arrives & departs Eagle Junction
+22:04 DG92 Departs from Domestic Airport
+22:05 TY93 Arrives & departs Northgate
+22:05 1894 Arrives & departs Wooloowin
+22:05 1AA5 Arrives & departs Bindha
+22:06 1790 Arrives & departs Keperra
+22:06 D163 Arrives & departs Petrie
+22:07 D163 Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 
+22:07 TY93 Arrives & departs Virginia
+22:07 DK94 Arrives & departs Bowen Hills
+22:07 1894 Arrives & departs Albion
+22:07 1AA5 Arrives & departs Banyo
+22:07 ER74 Departs from Banyo Stabling
+22:08 1790 Arrives & departs Grovely
+22:08 TY93 Arrives & departs Sunshine
+22:08 DK94 Exits railway at City Up Main,
+allowable exit element(s): 2-17 
+22:08 DG92 Arrives & departs International Airport
+22:09 1896 Departs from Shorncliffe
+22:09 1AA5 Arrives & departs Nudgee
+22:10 1790 Arrives & departs Oxford Park
+22:10 TY93 Arrives & departs Geebung
+22:11 1894 Arrives & departs Bowen Hills
+22:11 1896 Arrives & departs Sandgate
+22:11 ER74 Arrives at Northgate
+22:11 ER74 Change maximum speed to 140 at Northgate
+22:12 1790 Arrives & departs Mitchelton
+22:12 D570 Arrives & departs Northgate
+22:12 TY93 Arrives & departs Zillmere
+22:12 1894 Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 
+22:12 1AA5 Arrives & departs Boondall
+22:12 ER74 At Northgate forms new service DR74
+22:12 DR74 New service at Northgate from ER74
+22:12 DR74 Departs from Northgate
+22:13 1896 Arrives & departs Deagon
+22:14 1790 Arrives & departs Gaythorne
+22:14 1AA5 Arrives & departs North Boondall
+22:14 DR74 Arrives & departs Nundah
+22:15 TY93 Arrives at Carseldine
+22:15 TY93 Terminates at Carseldine
+22:15 1896 Arrives at North Boondall
+22:15 1896 Terminates at North Boondall
+22:15 DG92 Arrives at Eagle Junction
+22:15 DG92 Terminates at Eagle Junction
+22:16 1790 Arrives at Enoggera
+22:16 1790 Terminates at Enoggera
+22:16 D570 Arrives at Eagle Junction
+22:16 D570 Terminates at Eagle Junction
+22:16 1AA5 Arrives at Deagon
+22:16 1AA5 Terminates at Deagon
+22:16 DR74 Arrives at Toombul
+22:16 DR74 Terminates at Toombul

@@ -1,0 +1,3414 @@
+Railway: Brisbane North; Timetable: Brisbane North Weekday 0700-1000;  Start time: 06:55
+
+SHBR Northgate to Boggo Road; Mass 255Te; Power 2160kW; Brake force 35Te; Maximum speed 100 km/h
+,1S16
+
+Created at Eagle Junction,06:55
+Departs from Eagle Junction,06:55
+Arrives & departs Wooloowin,06:57
+Arrives & departs Albion,06:59
+Arrives & departs Bowen Hills,07:03
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:04
+
+
+ECS Caboolture West to Northgate P1; Mass 255Te; Power 2880kW; Brake force 35Te; Maximum speed 70 km/h
+,2S22
+
+Enters at Sunshine Coast,06:58
+Passes Petrie,06:59
+Arrives at Northgate,07:16
+At Northgate forms new service,1S22 at 07:16
+
+
+SHBR Northgate to Boggo Road
+,1S22
+
+New service at Northgate from,2S22 at 07:16
+Change maximum speed to 130 at Northgate,07:17
+Departs from Northgate,07:19
+Arrives & departs Nundah,07:21
+Arrives & departs Toombul,07:23
+Arrives & departs Eagle Junction,07:25
+Arrives & departs Wooloowin,07:27
+Arrives & departs Albion,07:29
+Arrives & departs Bowen Hills,07:33
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:34
+
+
+RWBR Rosewood to Bowen Hills; Mass 280Te; Power 2880kW; Brake force 35Te; Maximum speed 100 km/h
+,1005
+
+Enters at City Down Main,07:06
+Arrives at Bowen Hills,07:07
+At Bowen Hills forms new service,2103 at 07:07
+
+
+CLBR Cleveland to Bowen Hills Express; Mass 275Te; Power 2160kW; Brake force 32Te; Maximum speed 100 km/h
+,1MT1
+
+Enters at City Down Suburban,07:10
+Arrives at Bowen Hills,07:11
+At Bowen Hills forms new service,2E11 at 07:11
+
+
+SPBR Springfield Central to Bowen Hills; Mass 265Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,D007
+
+Enters at City Down Main,07:13
+Arrives at Bowen Hills,07:14
+At Bowen Hills forms new service,EA11 at 07:14
+
+
+IPBR Ipswich to Bowen Hills Express; Mass 268Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,D0T3
+
+Enters at City Down Main,07:22
+Arrives at Bowen Hills,07:23
+At Bowen Hills forms new service,EY31 at 07:23
+
+
+CLBR Cleveland to Bowen Hills Express; Mass 272Te; Power 3000kW; Brake force 34Te; Maximum speed 140 km/h
+,DMT3
+
+Enters at City Down Suburban,07:25
+Arrives at Bowen Hills,07:26
+At Bowen Hills forms new service,EA13 at 07:26
+
+
+IPBR Ipswich to Bowen Hills Express; Mass 274Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,D0T5
+
+Enters at City Down Main,07:34
+Arrives at Bowen Hills,07:35
+Changes description at Bowen Hills,07:35
+Departs from Bowen Hills,07:36
+Exits railway at Mayne North,
+allowable exit element(s): 34-14 34-15 ,07:40
+
+
+SPBR Springfield Central to Bowen Hills; Mass 269Te; Power 2880kW; Brake force 31Te; Maximum speed 130 km/h
+,T009
+
+Enters at City Down Main,07:36
+Arrives at Bowen Hills,07:37
+At Bowen Hills forms new service,AYP1 at 07:37
+
+
+CLBR Cleveland to Bowen Hills Express; Mass 280Te; Power 3000kW; Brake force 30Te; Maximum speed 140 km/h
+,DMT5
+
+Enters at City Down Suburban,07:39
+Arrives at Bowen Hills,07:40
+At Bowen Hills forms new service,EA15 at 07:40
+
+
+RWBR Rosewood to Bowen Hills Express; Mass 274Te; Power 2880kW; Brake force 33Te; Maximum speed 140 km/h
+,T0T9
+
+Enters at City Down Main,07:46
+Arrives at Bowen Hills,07:47
+Changes description at Bowen Hills,07:47
+Departs from Bowen Hills,07:48
+Exits railway at Mayne North,
+allowable exit element(s): 34-14 34-15 ,07:52
+
+
+SPBR Springfield Central to Bowen Hills; Mass 270Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,D011
+
+Enters at City Down Main,07:48
+Arrives at Bowen Hills,07:49
+At Bowen Hills forms new service,E105 at 07:49
+
+
+IPBR Ipswich to Bowen Hills Express; Mass 271Te; Power 3000kW; Brake force 34Te; Maximum speed 140 km/h
+,D0U1
+
+Enters at City Down Main,07:52
+Arrives at Bowen Hills,07:53
+At Bowen Hills forms new service,EY33 at 07:53
+
+
+CLBR Cleveland to Bowen Hills Express; Mass 278Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,DMT7
+
+Enters at City Down Suburban,07:55
+Arrives at Bowen Hills,07:56
+At Bowen Hills forms new service,EA17 at 07:56
+
+
+IPBR Ipswich to Bowen Hills Express; Mass 270Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,D0U3
+
+Enters at City Down Main,07:58
+Arrives at Bowen Hills,07:59
+Changes description at Bowen Hills,07:59
+Departs from Bowen Hills,08:00
+Exits railway at Mayne North,
+allowable exit element(s): 34-14 34-15 ,08:04
+
+
+SPBR Springfield Central to Bowen Hills; Mass 273Te; Power 2880kW; Brake force 34Te; Maximum speed 130 km/h
+,T013
+
+Enters at City Down Main,08:01
+Arrives at Bowen Hills,08:02
+Changes description at Bowen Hills,08:02
+Departs from Bowen Hills,08:03
+Exits railway at Mayne North,
+allowable exit element(s): 34-14 34-15 ,08:07
+
+
+RWBR Rosewood to Bowen Hills Express; Mass 270Te; Power 2880kW; Brake force 31Te; Maximum speed 130 km/h
+,10U5
+
+Enters at City Down Main,08:04
+Arrives at Bowen Hills,08:05
+At Bowen Hills forms new service,2109 at 08:05
+
+
+SPBR Springfield Central to Bowen Hills; Mass 275Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,D017,D019
+
+Enters at City Down Main,08:07,08:19
+Arrives at Bowen Hills,08:08,08:20
+Changes description at Bowen Hills,08:08,08:20
+Departs from Bowen Hills,08:09,08:21
+Exits railway at Mayne North,
+allowable exit element(s): 34-14 34-15 ,08:13,08:25
+
+
+CLBR Cleveland to Bowen Hills Express; Mass 276Te; Power 3000kW; Brake force 33Te; Maximum speed 140 km/h
+,DMT9
+
+Enters at City Down Suburban,08:09
+Arrives at Bowen Hills,08:10
+At Bowen Hills forms new service,EA19 at 08:10
+
+
+SPBR Springfield Central to Bowen Hills; Mass 268Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,D015
+
+Enters at City Down Main,08:13
+Arrives at Bowen Hills,08:14
+At Bowen Hills forms new service,EY35 at 08:14
+
+
+IPBR Ipswich to Bowen Hills Express; Mass 271Te; Power 2880kW; Brake force 32Te; Maximum speed 130 km/h
+,T0U9
+
+Enters at City Down Main,08:21
+Arrives at Bowen Hills,08:22
+At Bowen Hills forms new service,AY37 at 08:22
+
+
+BNBR Kuraby to Bowen Hills; Mass 267Te; Power 2880kW; Brake force 35Te; Maximum speed 100 km/h
+,1M11
+
+Enters at City Down Suburban,08:22
+Arrives at Bowen Hills,08:23
+Changes description at Bowen Hills,08:23
+Departs from Bowen Hills,08:24
+Exits railway at Mayne Flyover,
+allowable exit element(s): 23-9 ,08:28
+
+
+IPBR Ipswich to Bowen Hills Express; Mass 268Te; Power 3000kW; Brake force 34Te; Maximum speed 140 km/h
+,D0V1
+
+Enters at City Down Main,08:34
+Arrives at Bowen Hills,08:35
+Changes description at Bowen Hills,08:35
+Departs from Bowen Hills,08:36
+Exits railway at Mayne North,
+allowable exit element(s): 34-14 34-15 ,08:40
+
+
+BNBR Coopers Plains to Bowen Hills; Mass 267Te; Power 2160kW; Brake force 35Te; Maximum speed 100 km/h
+,1M13
+
+Enters at City Down Suburban,08:37
+Arrives at Bowen Hills,08:38
+Changes description at Bowen Hills,08:38
+Departs from Bowen Hills,08:39
+Exits railway at Mayne Flyover,
+allowable exit element(s): 23-9 ,08:43
+
+
+SPBR Springfield Central to Bowen Hills; Mass 272Te; Power 3000kW; Brake force 33Te; Maximum speed 140 km/h
+,D021
+
+Enters at City Down Main,08:48
+Arrives at Bowen Hills,08:49
+At Bowen Hills forms new service,EY39 at 08:49
+
+
+BNBR Kuraby to Bowen Hills; Mass 262Te; Power 2880kW; Brake force 34Te; Maximum speed 140 km/h
+,TM15
+
+Enters at City Down Suburban,08:52
+Arrives at Bowen Hills,08:53
+Changes description at Bowen Hills,08:53
+Departs from Bowen Hills,08:54
+Exits railway at Mayne Flyover,
+allowable exit element(s): 23-9 ,08:58
+
+
+SPBR Springfield Central to Bowen Hills; Mass 271Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,D023,D025
+
+Enters at City Down Main,09:01,09:13
+Arrives at Bowen Hills,09:02,09:14
+Changes description at Bowen Hills,09:02,09:14
+Departs from Bowen Hills,09:03,09:15
+Exits railway at Mayne North,
+allowable exit element(s): 34-14 34-15 ,09:07,09:19
+
+
+CLBR Cannon Hill to Bowen Hills; Mass 276Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,DM17
+
+Enters at City Down Suburban,09:10
+Arrives at Bowen Hills,09:11
+At Bowen Hills forms new service,EA21 at 09:11
+
+
+IPBR Ipswich to Bowen Hills; Mass 273Te; Power 2880kW; Brake force 34Te; Maximum speed 130 km/h
+,T027
+
+Enters at City Down Main,09:28
+Arrives at Bowen Hills,09:29
+At Bowen Hills forms new service,A111 at 09:30
+
+
+BRBR Boggo Road to Bowen Hills; Mass 269Te; Power 2160kW; Brake force 34Te; Maximum speed 100 km/h
+,1M19
+
+Enters at City Down Suburban,09:40
+Arrives at Bowen Hills,09:41
+At Bowen Hills forms new service,2Y47 at 09:41
+
+
+SPBR Springfield Central to Bowen Hills; Mass 268Te; Power 2880kW; Brake force 35Te; Maximum speed 130 km/h
+,1029
+
+Enters at City Down Main,09:43
+Arrives at Bowen Hills,09:44
+Changes description at Bowen Hills,09:44
+Departs from Bowen Hills,09:45
+Exits railway at Mayne North,
+allowable exit element(s): 34-14 34-15 ,09:49
+
+
+IPBR Ipswich to Bowen Hills; Mass 258Te; Power 2160kW; Brake force 35Te; Maximum speed 100 km/h
+,1031
+
+Enters at City Down Main,09:58
+Arrives at Bowen Hills,09:59
+Changes description at Bowen Hills,10:00
+Departs from Bowen Hills,10:00
+Exits railway at Mayne North,
+allowable exit element(s): 34-14 34-15 ,10:04
+
+
+FGBN Ferny Grove to Beenleigh; Mass 266Te; Power 2880kW; Brake force 32Te; Maximum speed 100 km/h
+,1714
+
+Created at Windsor,06:55
+Departs from Windsor,06:55
+Arrives & departs Bowen Hills,06:58
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,06:59
+
+
+FGBR Ferny Grove to Boggo Road; Mass 253Te; Power 2160kW; Brake force 32Te; Maximum speed 100 km/h
+,1S18
+
+Created at Alderley,06:55
+Departs from Alderley,06:56
+Arrives & departs Newmarket,06:58
+Arrives & departs Wilston,07:00
+Arrives & departs Windsor,07:02
+Arrives & departs Bowen Hills,07:06
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:07
+
+
+FGBN Ferny Grove to Coopers Plains; Mass 270Te; Power 2880kW; Brake force 34Te; Maximum speed 140 km/h
+,TV08
+
+Created at Oxford Park,06:55
+Departs from Oxford Park,06:55
+Arrives & departs Mitchelton,06:57
+Arrives & departs Gaythorne,06:59
+Arrives & departs Enoggera,07:01
+Arrives & departs Alderley,07:03
+Arrives & departs Newmarket,07:05
+Arrives & departs Wilston,07:07
+Arrives & departs Windsor,07:09
+Arrives & departs Bowen Hills,07:13
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:14
+
+
+FGBR Ferny Grove to Boggo Road; Mass 256Te; Power 2880kW; Brake force 34Te; Maximum speed 130 km/h
+,TS20
+
+Created at Ferny Grove,06:55
+Departs from Ferny Grove,06:55
+Arrives & departs Keperra,06:59
+Arrives & departs Grovely,07:01
+Arrives & departs Oxford Park,07:03
+Arrives & departs Mitchelton,07:05
+Arrives & departs Gaythorne,07:07
+Arrives & departs Enoggera,07:09
+Arrives & departs Alderley,07:11
+Arrives & departs Newmarket,07:13
+Arrives & departs Wilston,07:15
+Arrives & departs Windsor,07:17
+Arrives & departs Bowen Hills,07:21
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:22
+
+
+BNFG Beenleigh to Ferny Grove P1; Mass 274Te; Power 2880kW; Brake force 35Te; Maximum speed 130 km/h
+,TE17
+
+Created at 153-N2,06:55
+Arrives at Signal FG19,06:55
+Departs from Signal FG19,06:56
+Arrives at Ferny Grove,06:57
+Changes direction at Ferny Grove,06:59
+At Ferny Grove forms new service,T716 at 07:00
+
+
+FGBN Ferny Grove to Beenleigh
+,T716
+
+New service at Ferny Grove from,TE17 at 07:00
+Departs from Ferny Grove,07:02
+Arrives & departs Keperra,07:06
+Arrives & departs Grovely,07:08
+Arrives & departs Oxford Park,07:10
+Arrives & departs Mitchelton,07:12
+Arrives & departs Gaythorne,07:14
+Arrives & departs Enoggera,07:16
+Arrives & departs Alderley,07:18
+Arrives & departs Newmarket,07:20
+Arrives & departs Wilston,07:22
+Arrives & departs Windsor,07:24
+Arrives & departs Bowen Hills,07:28
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:29
+
+
+ECS Redbank Stabling to Ferny Grove P2; Mass 260Te; Power 2160kW; Brake force 35Te; Maximum speed 35 km/h
+,2E05
+
+Created at Oxford Park,06:55
+Arrives at Ferny Grove,07:02
+Changes direction at Ferny Grove,07:04
+At Ferny Grove forms new service,1S24 at 07:05
+
+
+FGBR Ferny Grove to Boggo Road
+,1S24
+
+New service at Ferny Grove from,2E05 at 07:05
+Change maximum speed to 100 at Ferny Grove,07:06
+Departs from Ferny Grove,07:10
+Arrives & departs Keperra,07:14
+Arrives & departs Grovely,07:16
+Arrives & departs Oxford Park,07:18
+Arrives & departs Mitchelton,07:20
+Arrives & departs Gaythorne,07:22
+Arrives & departs Enoggera,07:24
+Arrives & departs Alderley,07:26
+Arrives & departs Newmarket,07:28
+Arrives & departs Wilston,07:30
+Arrives & departs Windsor,07:32
+Arrives & departs Bowen Hills,07:36
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:37
+
+
+BNFG Beenleigh to Ferny Grove P1; Mass 275Te; Power 2880kW; Brake force 35Te; Maximum speed 100 km/h
+,1E19
+
+Created at Alderley,06:55
+Departs from Alderley,06:56
+Arrives & departs Enoggera,06:58
+Arrives & departs Gaythorne,07:00
+Arrives & departs Mitchelton,07:02
+Arrives & departs Oxford Park,07:04
+Arrives & departs Grovely,07:06
+Arrives & departs Keperra,07:08
+Arrives at Signal FG19,07:10
+Departs from Signal FG19,07:11
+Arrives at Ferny Grove,07:12
+Changes direction at Ferny Grove,07:14
+At Ferny Grove forms new service,1V10 at 07:15
+
+
+FGBN Ferny Grove to Coopers Plains
+,1V10
+
+New service at Ferny Grove from,1E19 at 07:15
+Departs from Ferny Grove,07:17
+Arrives & departs Keperra,07:21
+Arrives & departs Grovely,07:23
+Arrives & departs Oxford Park,07:25
+Arrives & departs Mitchelton,07:27
+Arrives & departs Gaythorne,07:29
+Arrives & departs Enoggera,07:31
+Arrives & departs Alderley,07:33
+Arrives & departs Newmarket,07:35
+Arrives & departs Wilston,07:37
+Arrives & departs Windsor,07:39
+Arrives & departs Bowen Hills,07:43
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:44
+
+
+ECS Mayne ETS to Ferny Grove P2; Mass 260Te; Power 2160kW; Brake force 34Te; Maximum speed 35 km/h
+,2E09
+
+Created at 36-3,06:55
+Arrives at Ferny Grove,07:15
+Changes direction at Ferny Grove,07:18
+At Ferny Grove forms new service,1S28 at 07:20
+
+
+FGBR Ferny Grove to Boggo Road
+,1S28
+
+New service at Ferny Grove from,2E09 at 07:20
+Change maximum speed to 100 at Ferny Grove,07:21
+Departs from Ferny Grove,07:25
+Arrives & departs Keperra,07:29
+Arrives & departs Grovely,07:31
+Arrives & departs Oxford Park,07:33
+Arrives & departs Mitchelton,07:35
+Arrives & departs Gaythorne,07:37
+Arrives & departs Enoggera,07:39
+Arrives & departs Alderley,07:41
+Arrives & departs Newmarket,07:43
+Arrives & departs Wilston,07:45
+Arrives & departs Windsor,07:47
+Arrives & departs Bowen Hills,07:51
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:52
+
+
+BNFG Beenleigh to Ferny Grove P1; Mass 280Te; Power 2880kW; Brake force 35Te; Maximum speed 100 km/h
+,1E21
+
+Enters at City Down Suburban,07:00
+Arrives & departs Bowen Hills,07:01
+Arrives & departs Windsor,07:05
+Arrives & departs Wilston,07:07
+Arrives & departs Newmarket,07:09
+Arrives & departs Alderley,07:11
+Arrives & departs Enoggera,07:13
+Arrives & departs Gaythorne,07:15
+Arrives & departs Mitchelton,07:17
+Arrives & departs Oxford Park,07:19
+Arrives & departs Grovely,07:21
+Arrives & departs Keperra,07:23
+Arrives at Signal FG19,07:25
+Departs from Signal FG19,07:26
+Arrives at Ferny Grove,07:27
+Changes direction at Ferny Grove,07:29
+At Ferny Grove forms new service,1718 at 07:30
+
+
+FGBN Ferny Grove to Beenleigh
+,1718
+
+New service at Ferny Grove from,1E21 at 07:30
+Departs from Ferny Grove,07:32
+Arrives & departs Keperra,07:36
+Arrives & departs Grovely,07:38
+Arrives & departs Oxford Park,07:40
+Arrives & departs Mitchelton,07:42
+Arrives & departs Gaythorne,07:44
+Arrives & departs Enoggera,07:46
+Arrives & departs Alderley,07:48
+Arrives & departs Newmarket,07:50
+Arrives & departs Wilston,07:52
+Arrives & departs Windsor,07:54
+Arrives & departs Bowen Hills,07:58
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:59
+
+
+ECS Bowen Hills to Ferny Grove P2
+,2E11
+
+New service at Bowen Hills from,1MT1 at 07:11
+Change maximum speed to 45 at Bowen Hills,07:11
+Departs from Bowen Hills,07:12
+Arrives at Ferny Grove,07:31
+Changes direction at Ferny Grove,07:33
+At Ferny Grove forms new service,1S32 at 07:35
+
+
+FGBR Ferny Grove to Boggo Road
+,1S32
+
+New service at Ferny Grove from,2E11 at 07:35
+Change maximum speed to 100 at Ferny Grove,07:36
+Departs from Ferny Grove,07:40
+Arrives & departs Keperra,07:44
+Arrives & departs Grovely,07:46
+Arrives & departs Oxford Park,07:48
+Arrives & departs Mitchelton,07:50
+Arrives & departs Gaythorne,07:52
+Arrives & departs Enoggera,07:54
+Arrives & departs Alderley,07:56
+Arrives & departs Newmarket,07:58
+Arrives & departs Wilston,08:00
+Arrives & departs Windsor,08:02
+Arrives & departs Bowen Hills,08:06
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:07
+
+
+BNFG Beenleigh to Ferny Grove P1; Mass 265Te; Power 2880kW; Brake force 31Te; Maximum speed 100 km/h
+,1E23
+
+Enters at City Down Suburban,07:15
+Arrives & departs Bowen Hills,07:16
+Arrives & departs Windsor,07:20
+Arrives & departs Wilston,07:22
+Arrives & departs Newmarket,07:24
+Arrives & departs Alderley,07:26
+Arrives & departs Enoggera,07:28
+Arrives & departs Gaythorne,07:30
+Arrives & departs Mitchelton,07:32
+Arrives & departs Oxford Park,07:34
+Arrives & departs Grovely,07:36
+Arrives & departs Keperra,07:38
+Arrives at Signal FG19,07:40
+Departs from Signal FG19,07:41
+Arrives at Ferny Grove,07:42
+Changes direction at Ferny Grove,07:44
+At Ferny Grove forms new service,1V12 at 07:45
+
+
+FGBN Ferny Grove to Coopers Plains
+,1V12
+
+New service at Ferny Grove from,1E23 at 07:45
+Departs from Ferny Grove,07:47
+Arrives & departs Keperra,07:51
+Arrives & departs Grovely,07:53
+Arrives & departs Oxford Park,07:55
+Arrives & departs Mitchelton,07:57
+Arrives & departs Gaythorne,07:59
+Arrives & departs Enoggera,08:01
+Arrives & departs Alderley,08:03
+Arrives & departs Newmarket,08:05
+Arrives & departs Wilston,08:07
+Arrives & departs Windsor,08:09
+Arrives & departs Bowen Hills,08:13
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:14
+
+
+ECS Mayne ETS to Ferny Grove P2; Mass 260Te; Power 2880kW; Brake force 34Te; Maximum speed 40 km/h
+,2E13
+
+Enters at City Down Suburban,07:23
+Passes Bowen Hills,07:24
+Arrives at Ferny Grove,07:47
+Changes direction at Ferny Grove,07:49
+At Ferny Grove forms new service,1R08 at 07:50
+
+
+FGBR Ferny Grove to Roma Street
+,1R08
+
+New service at Ferny Grove from,2E13 at 07:50
+Change maximum speed to 130 at Ferny Grove,07:51
+Departs from Ferny Grove,07:55
+Arrives & departs Keperra,07:59
+Arrives & departs Grovely,08:01
+Arrives & departs Oxford Park,08:03
+Arrives & departs Mitchelton,08:05
+Arrives & departs Gaythorne,08:07
+Arrives & departs Enoggera,08:09
+Arrives & departs Alderley,08:11
+Arrives & departs Newmarket,08:13
+Arrives & departs Wilston,08:15
+Arrives & departs Windsor,08:17
+Arrives & departs Bowen Hills,08:21
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:22
+
+
+BNFG Beenleigh to Ferny Grove P1; Mass 280Te; Power 2880kW; Brake force 35Te; Maximum speed 100 km/h
+,1E25
+
+Enters at City Down Suburban,07:30
+Arrives & departs Bowen Hills,07:31
+Arrives & departs Windsor,07:35
+Arrives & departs Wilston,07:37
+Arrives & departs Newmarket,07:39
+Arrives & departs Alderley,07:41
+Arrives & departs Enoggera,07:43
+Arrives & departs Gaythorne,07:45
+Arrives & departs Mitchelton,07:47
+Arrives & departs Oxford Park,07:49
+Arrives & departs Grovely,07:51
+Arrives & departs Keperra,07:53
+Arrives at Signal FG19,07:55
+Departs from Signal FG19,07:56
+Arrives at Ferny Grove,07:57
+Changes direction at Ferny Grove,07:59
+At Ferny Grove forms new service,1720 at 08:00
+
+
+FGBN Ferny Grove to Beenleigh
+,1720
+
+New service at Ferny Grove from,1E25 at 08:00
+Departs from Ferny Grove,08:02
+Arrives & departs Keperra,08:06
+Arrives & departs Grovely,08:08
+Arrives & departs Oxford Park,08:10
+Arrives & departs Mitchelton,08:12
+Arrives & departs Gaythorne,08:14
+Arrives & departs Enoggera,08:16
+Arrives & departs Alderley,08:18
+Arrives & departs Newmarket,08:20
+Arrives & departs Wilston,08:22
+Arrives & departs Windsor,08:24
+Arrives & departs Bowen Hills,08:28
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:29
+
+
+ECS Roma Street to Ferny Grove P2; Mass 260Te; Power 2880kW; Brake force 35Te; Maximum speed 50 km/h
+,2E15
+
+Enters at City Down Suburban,07:43
+Passes Bowen Hills,07:44
+Arrives at Ferny Grove,08:02
+Changes direction at Ferny Grove,08:04
+At Ferny Grove forms new service,1R10 at 08:05
+
+
+FGBR Ferny Grove to Roma Street
+,1R10
+
+New service at Ferny Grove from,2E15 at 08:05
+Change maximum speed to 130 at Ferny Grove,08:06
+Departs from Ferny Grove,08:10
+Arrives & departs Keperra,08:14
+Arrives & departs Grovely,08:16
+Arrives & departs Oxford Park,08:18
+Arrives & departs Mitchelton,08:20
+Arrives & departs Gaythorne,08:22
+Arrives & departs Enoggera,08:24
+Arrives & departs Alderley,08:26
+Arrives & departs Newmarket,08:28
+Arrives & departs Wilston,08:30
+Arrives & departs Windsor,08:32
+Arrives & departs Bowen Hills,08:36
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:37
+
+
+BNFG Beenleigh to Ferny Grove P1; Mass 146Te; Power 1080kW; Brake force 17Te; Maximum speed 100 km/h
+,JE27
+
+Enters at City Down Suburban,07:45
+Arrives & departs Bowen Hills,07:46
+Arrives & departs Windsor,07:50
+Arrives & departs Wilston,07:52
+Arrives & departs Newmarket,07:54
+Arrives & departs Alderley,07:56
+Arrives & departs Enoggera,07:58
+Arrives & departs Gaythorne,08:00
+Arrives & departs Mitchelton,08:02
+Arrives & departs Oxford Park,08:04
+Arrives & departs Grovely,08:06
+Arrives & departs Keperra,08:08
+Arrives at Signal FG19,08:10
+Departs from Signal FG19,08:11
+Arrives at Ferny Grove,08:12
+Changes direction at Ferny Grove,08:14
+At Ferny Grove forms new service,JV14 at 08:15
+
+
+FGBN Ferny Grove to Coopers Plains
+,JV14
+
+New service at Ferny Grove from,JE27 at 08:15
+Departs from Ferny Grove,08:17
+Arrives & departs Keperra,08:21
+Arrives & departs Grovely,08:23
+Arrives & departs Oxford Park,08:25
+Arrives & departs Mitchelton,08:27
+Arrives & departs Gaythorne,08:29
+Arrives & departs Enoggera,08:31
+Arrives & departs Alderley,08:33
+Arrives & departs Newmarket,08:35
+Arrives & departs Wilston,08:37
+Arrives & departs Windsor,08:39
+Arrives & departs Bowen Hills,08:43
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:44
+
+
+ECS Boggo Road to Ferny Grove P2; Mass 250Te; Power 2160kW; Brake force 32Te; Maximum speed 40 km/h
+,2E17
+
+Enters at City Down Suburban,07:53
+Passes Bowen Hills,07:54
+Arrives at Ferny Grove,08:17
+Changes direction at Ferny Grove,08:25
+At Ferny Grove forms new service,1722 at 08:27
+
+
+FGBN Ferny Grove to Beenleigh
+,1722
+
+New service at Ferny Grove from,2E17 at 08:27
+Change maximum speed to 100 at Ferny Grove,08:28
+Departs from Ferny Grove,08:32
+Arrives & departs Keperra,08:36
+Arrives & departs Grovely,08:38
+Arrives & departs Oxford Park,08:40
+Arrives & departs Mitchelton,08:42
+Arrives & departs Gaythorne,08:44
+Arrives & departs Enoggera,08:46
+Arrives & departs Alderley,08:48
+Arrives & departs Newmarket,08:50
+Arrives & departs Wilston,08:52
+Arrives & departs Windsor,08:54
+Arrives & departs Bowen Hills,08:58
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:59
+
+
+BNFG Beenleigh to Ferny Grove P1; Mass 271Te; Power 2880kW; Brake force 35Te; Maximum speed 130 km/h
+,1E29
+
+Enters at City Down Suburban,08:00
+Arrives & departs Bowen Hills,08:01
+Arrives & departs Windsor,08:05
+Arrives & departs Wilston,08:07
+Arrives & departs Newmarket,08:09
+Arrives & departs Alderley,08:11
+Arrives & departs Enoggera,08:13
+Arrives & departs Gaythorne,08:15
+Arrives & departs Mitchelton,08:17
+Arrives & departs Oxford Park,08:19
+Arrives & departs Grovely,08:21
+Arrives & departs Keperra,08:23
+Arrives at Ferny Grove,08:27
+Changes direction at Ferny Grove,08:35
+At Ferny Grove forms new service,1V16 at 08:37
+
+
+FGBN Ferny Grove to Coopers Plains
+,1V16
+
+New service at Ferny Grove from,1E29 at 08:37
+Departs from Ferny Grove,08:47
+Arrives & departs Keperra,08:51
+Arrives & departs Grovely,08:53
+Arrives & departs Oxford Park,08:55
+Arrives & departs Mitchelton,08:57
+Arrives & departs Gaythorne,08:59
+Arrives & departs Enoggera,09:01
+Arrives & departs Alderley,09:03
+Arrives & departs Newmarket,09:05
+Arrives & departs Wilston,09:07
+Arrives & departs Windsor,09:09
+Arrives & departs Bowen Hills,09:13
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:14
+
+
+BNFG Beenleigh to Ferny Grove P2; Mass 273Te; Power 2160kW; Brake force 32Te; Maximum speed 100 km/h
+,1E31
+
+Enters at City Down Suburban,08:15
+Arrives & departs Bowen Hills,08:16
+Arrives & departs Windsor,08:20
+Arrives & departs Wilston,08:22
+Arrives & departs Newmarket,08:24
+Arrives & departs Alderley,08:26
+Arrives & departs Enoggera,08:28
+Arrives & departs Gaythorne,08:30
+Arrives & departs Mitchelton,08:32
+Arrives & departs Oxford Park,08:34
+Arrives & departs Grovely,08:36
+Arrives & departs Keperra,08:38
+Arrives at Ferny Grove,08:42
+Changes direction at Ferny Grove,08:50
+At Ferny Grove forms new service,1724 at 08:52
+
+
+FGBN Ferny Grove to Beenleigh
+,1724
+
+New service at Ferny Grove from,1E31 at 08:52
+Departs from Ferny Grove,09:02
+Arrives & departs Keperra,09:06
+Arrives & departs Grovely,09:08
+Arrives & departs Oxford Park,09:10
+Arrives & departs Mitchelton,09:12
+Arrives & departs Gaythorne,09:14
+Arrives & departs Enoggera,09:16
+Arrives & departs Alderley,09:18
+Arrives & departs Newmarket,09:20
+Arrives & departs Wilston,09:22
+Arrives & departs Windsor,09:24
+Arrives & departs Bowen Hills,09:28
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:29
+
+
+BNFG Beenleigh to Ferny Grove P1; Mass 274Te; Power 2880kW; Brake force 35Te; Maximum speed 130 km/h
+,1E33
+
+Enters at City Down Suburban,08:30
+Arrives & departs Bowen Hills,08:31
+Arrives & departs Windsor,08:35
+Arrives & departs Wilston,08:37
+Arrives & departs Newmarket,08:39
+Arrives & departs Alderley,08:41
+Arrives & departs Enoggera,08:43
+Arrives & departs Gaythorne,08:45
+Arrives & departs Mitchelton,08:47
+Arrives & departs Oxford Park,08:49
+Arrives & departs Grovely,08:51
+Arrives & departs Keperra,08:53
+Arrives at Ferny Grove,08:57
+Changes direction at Ferny Grove,09:05
+At Ferny Grove forms new service,1V18 at 09:07
+
+
+FGBN Ferny Grove to Coopers Plains
+,1V18
+
+New service at Ferny Grove from,1E33 at 09:07
+Departs from Ferny Grove,09:17
+Arrives & departs Keperra,09:21
+Arrives & departs Grovely,09:23
+Arrives & departs Oxford Park,09:25
+Arrives & departs Mitchelton,09:27
+Arrives & departs Gaythorne,09:29
+Arrives & departs Enoggera,09:31
+Arrives & departs Alderley,09:33
+Arrives & departs Newmarket,09:35
+Arrives & departs Wilston,09:37
+Arrives & departs Windsor,09:39
+Arrives & departs Bowen Hills,09:43
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:44
+
+
+BNFG Beenleigh to Ferny Grove P2; Mass 278Te; Power 2880kW; Brake force 35Te; Maximum speed 130 km/h
+,TE35
+
+Enters at City Down Suburban,08:45
+Arrives & departs Bowen Hills,08:46
+Arrives & departs Windsor,08:50
+Arrives & departs Wilston,08:52
+Arrives & departs Newmarket,08:54
+Arrives & departs Alderley,08:56
+Arrives & departs Enoggera,08:58
+Arrives & departs Gaythorne,09:00
+Arrives & departs Mitchelton,09:02
+Arrives & departs Oxford Park,09:04
+Arrives & departs Grovely,09:06
+Arrives & departs Keperra,09:08
+Arrives at Ferny Grove,09:12
+Changes direction at Ferny Grove,09:20
+At Ferny Grove forms new service,T726 at 09:22
+
+
+FGBN Ferny Grove to Beenleigh
+,T726
+
+New service at Ferny Grove from,TE35 at 09:22
+Departs from Ferny Grove,09:32
+Arrives & departs Keperra,09:36
+Arrives & departs Grovely,09:38
+Arrives & departs Oxford Park,09:40
+Arrives & departs Mitchelton,09:42
+Arrives & departs Gaythorne,09:44
+Arrives & departs Enoggera,09:46
+Arrives & departs Alderley,09:48
+Arrives & departs Newmarket,09:50
+Arrives & departs Wilston,09:52
+Arrives & departs Windsor,09:54
+Arrives & departs Bowen Hills,09:58
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:59
+
+
+BNFG Beenleigh to Ferny Grove P1; Mass 142Te; Power 1080kW; Brake force 17Te; Maximum speed 100 km/h
+,JE37
+
+Enters at City Down Suburban,09:00
+Arrives & departs Bowen Hills,09:01
+Arrives & departs Windsor,09:05
+Arrives & departs Wilston,09:07
+Arrives & departs Newmarket,09:09
+Arrives & departs Alderley,09:11
+Arrives & departs Enoggera,09:13
+Arrives & departs Gaythorne,09:15
+Arrives & departs Mitchelton,09:17
+Arrives & departs Oxford Park,09:19
+Arrives & departs Grovely,09:21
+Arrives & departs Keperra,09:23
+Arrives at Ferny Grove,09:27
+Changes direction at Ferny Grove,09:35
+At Ferny Grove forms new service,JV20 at 09:37
+
+
+FGBN Ferny Grove to Coopers Plains
+,JV20
+
+New service at Ferny Grove from,JE37 at 09:37
+Departs from Ferny Grove,09:47
+Arrives & departs Keperra,09:51
+Arrives & departs Grovely,09:53
+Arrives & departs Oxford Park,09:55
+Arrives & departs Mitchelton,09:57
+Arrives & departs Gaythorne,09:59
+Arrives & departs Enoggera,10:01
+Arrives & departs Alderley,10:03
+Arrives & departs Newmarket,10:05
+Arrives & departs Wilston,10:07
+Arrives & departs Windsor,10:09
+Arrives & departs Bowen Hills,10:13
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,10:14
+
+
+BNFG Kuraby to Ferny Grove P2; Mass 270Te; Power 2160kW; Brake force 35Te; Maximum speed 100 km/h
+,1E39
+
+Enters at City Down Suburban,09:15
+Arrives & departs Bowen Hills,09:16
+Arrives & departs Windsor,09:20
+Arrives & departs Wilston,09:22
+Arrives & departs Newmarket,09:24
+Arrives & departs Alderley,09:26
+Arrives & departs Enoggera,09:28
+Arrives & departs Gaythorne,09:30
+Arrives & departs Mitchelton,09:32
+Arrives & departs Oxford Park,09:34
+Arrives & departs Grovely,09:36
+Arrives & departs Keperra,09:38
+Arrives at Ferny Grove,09:42
+Changes direction at Ferny Grove,09:50
+At Ferny Grove forms new service,1728 at 09:52
+
+
+FGBN Ferny Grove to Beenleigh
+,1728
+
+New service at Ferny Grove from,1E39 at 09:52
+Departs from Ferny Grove,10:02
+Arrives & departs Keperra,10:06
+Arrives & departs Grovely,10:08
+Arrives & departs Oxford Park,10:10
+Arrives & departs Mitchelton,10:12
+Arrives & departs Gaythorne,10:14
+Arrives at Enoggera,10:16
+Terminates at Enoggera,10:16
+
+
+BNFG Beenleigh to Ferny Grove P1; Mass 274Te; Power 2880kW; Brake force 32Te; Maximum speed 100 km/h
+,1E41
+
+Enters at City Down Suburban,09:30
+Arrives & departs Bowen Hills,09:31
+Arrives & departs Windsor,09:35
+Arrives & departs Wilston,09:37
+Arrives & departs Newmarket,09:39
+Arrives & departs Alderley,09:41
+Arrives & departs Enoggera,09:43
+Arrives & departs Gaythorne,09:45
+Arrives & departs Mitchelton,09:47
+Arrives & departs Oxford Park,09:49
+Arrives & departs Grovely,09:51
+Arrives & departs Keperra,09:53
+Arrives at Ferny Grove,09:57
+Changes direction at Ferny Grove,10:05
+At Ferny Grove forms new service,1V22 at 10:07
+
+
+FGBN Ferny Grove to Coopers Plains
+,1V22
+
+New service at Ferny Grove from,1E41 at 10:07
+Terminates at Ferny Grove,10:07
+
+
+BNFG Coopers Plains to Ferny Grove P2; Mass 273Te; Power 2880kW; Brake force 31Te; Maximum speed 100 km/h
+,1E43
+
+Enters at City Down Suburban,09:45
+Arrives & departs Bowen Hills,09:46
+Arrives & departs Windsor,09:50
+Arrives & departs Wilston,09:52
+Arrives & departs Newmarket,09:54
+Arrives & departs Alderley,09:56
+Arrives & departs Enoggera,09:58
+Arrives & departs Gaythorne,10:00
+Arrives & departs Mitchelton,10:02
+Arrives & departs Oxford Park,10:04
+Arrives & departs Grovely,10:06
+Arrives & departs Keperra,10:08
+Arrives at Ferny Grove,10:12
+Terminates at Ferny Grove,10:12
+
+
+ECS Bowen Hills to Caboolture; Mass 260Te; Power 2880kW; Brake force 34Te; Maximum speed 60 km/h
+,A101
+
+Created at 235-20,06:55
+Passes Petrie,07:02
+Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 ,07:03
+
+
+BRCA Roma Street to Caboolture; Mass 274Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,D107
+
+Created at Geebung,06:55
+Arrives & departs Petrie,07:06
+Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 ,07:07
+
+
+ECS Bowen Hills to Caboolture
+,2103
+
+New service at Bowen Hills from,1005 at 07:07
+Change maximum speed to 70 at Bowen Hills,07:08
+Departs from Bowen Hills,07:08
+Passes Eagle Junction Down Main,07:13
+Passes Northgate,07:17
+Passes Petrie,07:32
+Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 ,07:33
+
+
+IPNA Ipswich to Nambour Express; Mass 275Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,DLT1
+
+Enters at City Down Main,07:10
+Arrives & departs Bowen Hills,07:11
+Arrives & departs Eagle Junction,07:16
+Arrives & departs Northgate,07:20
+Arrives & departs Petrie,07:36
+Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 ,07:37
+
+
+IPCA Ipswich to Caboolture Express; Mass 270Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,D1T7
+
+Enters at City Down Main,07:40
+Arrives & departs Bowen Hills,07:41
+Arrives & departs Eagle Junction,07:46
+Arrives & departs Northgate,07:50
+Arrives & departs Petrie,08:06
+Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 ,08:07
+
+
+ECS Bowen Hills to Caboolture
+,E105
+
+New service at Bowen Hills from,D011 at 07:49
+Change maximum speed to 70 at Bowen Hills,07:50
+Departs from Bowen Hills,07:50
+Passes Eagle Junction Down Main,07:54
+Passes Northgate,07:58
+Passes Petrie,08:13
+Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 ,08:14
+
+
+ECS Bowen Hills to Caboolture East
+,2109
+
+New service at Bowen Hills from,10U5 at 08:05
+Change maximum speed to 65 at Bowen Hills,08:06
+Departs from Bowen Hills,08:06
+Passes Eagle Junction Down Main,08:10
+Passes Northgate,08:13
+Passes Petrie,08:31
+Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 ,08:32
+
+
+IPCA Ipswich to Caboolture Express; Mass 270Te; Power 3000kW; Brake force 34Te; Maximum speed 140 km/h
+,D1U7
+
+Enters at City Down Main,08:10
+Arrives & departs Bowen Hills,08:11
+Arrives & departs Eagle Junction,08:16
+Arrives & departs Northgate,08:20
+Arrives & departs Petrie,08:36
+Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 ,08:37
+
+
+SPNA Springfield Central to Nambour; Mass 275Te; Power 2880kW; Brake force 31Te; Maximum speed 140 km/h
+,TL03
+
+Enters at City Down Main,08:40
+Arrives & departs Bowen Hills,08:41
+Arrives & departs Eagle Junction,08:46
+Arrives & departs Northgate,08:50
+Arrives & departs Petrie,09:06
+Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 ,09:07
+
+
+IPCA Ipswich to Caboolture; Mass 270Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,D109
+
+Enters at City Down Main,09:10
+Arrives & departs Bowen Hills,09:11
+Arrives & departs Eagle Junction,09:16
+Arrives & departs Northgate,09:20
+Arrives & departs Petrie,09:36
+Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 ,09:37
+
+
+ECS Bowen Hills to Narangba
+,A111
+
+New service at Bowen Hills from,T027 at 09:30
+Change maximum speed to 80 at Bowen Hills,09:31
+Departs from Bowen Hills,09:33
+Passes Eagle Junction Down Main,09:37
+Passes Northgate,09:40
+Passes Petrie,09:54
+Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 ,09:55
+
+
+BRGY Roma Street to Gympie North; Mass 265Te; Power 2880kW; Brake force 32Te; Maximum speed 140 km/h
+,T401
+
+Enters at City Down Main,09:36
+Arrives & departs Bowen Hills,09:37
+Passes Eagle Junction Down Main,09:41
+Arrives & departs Northgate,09:46
+Arrives & departs Petrie,10:01
+Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 ,10:02
+
+
+IPCA Ipswich to Caboolture; Mass 270Te; Power 2880kW; Brake force 35Te; Maximum speed 130 km/h
+,T111
+
+Enters at City Down Main,09:40
+Arrives & departs Bowen Hills,09:41
+Arrives & departs Eagle Junction,09:46
+Arrives & departs Northgate,09:50
+Arrives & departs Petrie,10:06
+Exits railway at Sunshine Coast,
+allowable exit element(s): 313-9 ,10:07
+
+
+NABR Nambour to Roma Street; Mass 270Te; Power 2880kW; Brake force 31Te; Maximum speed 140 km/h
+,T912
+
+Created at Geebung,06:55
+Arrives & departs Northgate,07:00
+Arrives & departs Eagle Junction,07:04
+Arrives & departs Bowen Hills,07:10
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,07:11
+
+
+NAIP Nambour to Ipswich; Mass 270Te; Power 2880kW; Brake force 35Te; Maximum speed 130 km/h
+,T510
+
+Enters at Sunshine Coast,06:55
+Arrives & departs Petrie,06:56
+Arrives & departs Northgate,07:12
+Arrives & departs Eagle Junction,07:16
+Arrives & departs Bowen Hills,07:22
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,07:23
+
+
+CABR Caboolture to Roma Street; Mass 290Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,D918
+
+Enters at Sunshine Coast,07:07
+Arrives & departs Petrie,07:08
+Arrives & departs Northgate,07:24
+Arrives & departs Eagle Junction,07:28
+Arrives & departs Bowen Hills,07:34
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,07:35
+
+
+NABR Nambour to Roma Street; Mass 270Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,D920
+
+Enters at Sunshine Coast,07:12
+Arrives & departs Petrie,07:14
+Arrives & departs Northgate,07:30
+Arrives & departs Eagle Junction,07:34
+Arrives & departs Bowen Hills,07:40
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,07:41
+
+
+CABR Caboolture to Roma Street; Mass 280Te; Power 2880kW; Brake force 35Te; Maximum speed 130 km/h
+,T924
+
+Enters at Sunshine Coast,07:18
+Arrives & departs Petrie,07:20
+Arrives & departs Northgate,07:36
+Arrives & departs Eagle Junction,07:40
+Arrives & departs Bowen Hills,07:46
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,07:47
+
+
+CAIP Caboolture to Ipswich; Mass 270Te; Power 2880kW; Brake force 35Te; Maximum speed 140 km/h
+,T512
+
+Enters at Sunshine Coast,07:25
+Arrives & departs Petrie,07:26
+Arrives & departs Northgate,07:42
+Arrives & departs Eagle Junction,07:46
+Arrives & departs Bowen Hills,07:52
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,07:53
+
+
+CABR Caboolture to Roma Street; Mass 150Te; Power 1080kW; Brake force 17Te; Maximum speed 100 km/h
+,J930
+
+Enters at Sunshine Coast,07:30
+Arrives & departs Petrie,07:32
+Arrives & departs Northgate,07:48
+Arrives & departs Eagle Junction,07:52
+Arrives & departs Bowen Hills,07:58
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,07:59
+
+
+NABR Nambour to Roma Street; Mass 270Te; Power 2880kW; Brake force 33Te; Maximum speed 130 km/h
+,T934
+
+Enters at Sunshine Coast,07:37
+Arrives & departs Petrie,07:38
+Arrives & departs Northgate,07:54
+Arrives & departs Eagle Junction,07:58
+Arrives & departs Bowen Hills,08:04
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,08:05
+
+
+CABR Caboolture to Roma Street; Mass 280Te; Power 3000kW; Brake force 34Te; Maximum speed 140 km/h
+,D936
+
+Enters at Sunshine Coast,07:42
+Arrives & departs Petrie,07:44
+Arrives & departs Northgate,08:00
+Arrives & departs Eagle Junction,08:04
+Arrives & departs Bowen Hills,08:10
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,08:11
+
+
+CABR Caboolture to Roma Street; Mass 278Te; Power 2880kW; Brake force 34Te; Maximum speed 140 km/h
+,T940
+
+Enters at Sunshine Coast,07:48
+Arrives & departs Petrie,07:50
+Arrives & departs Northgate,08:06
+Arrives & departs Eagle Junction,08:10
+Arrives & departs Bowen Hills,08:16
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,08:17
+
+
+NAIP Nambour to Ipswich; Mass 275Te; Power 3000kW; Brake force 33Te; Maximum speed 140 km/h
+,D514
+
+Enters at Sunshine Coast,07:55
+Arrives & departs Petrie,07:56
+Arrives & departs Northgate,08:12
+Arrives & departs Eagle Junction,08:16
+Arrives & departs Bowen Hills,08:22
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,08:23
+
+
+CASP Caboolture to Springfield Central; Mass 270Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,DK18
+
+Enters at Sunshine Coast,08:06
+Arrives & departs Petrie,08:08
+Arrives & departs Northgate,08:24
+Arrives & departs Eagle Junction,08:28
+Arrives & departs Bowen Hills,08:34
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,08:35
+
+
+GYBR Gympie North to Roma Street; Mass 265Te; Power 2880kW; Brake force 35Te; Maximum speed 140 km/h
+,T946
+
+Enters at Sunshine Coast,08:14
+Arrives & departs Petrie,08:15
+Arrives & departs Northgate,08:31
+Passes Eagle Junction Up Main,08:34
+Arrives & departs Bowen Hills,08:40
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,08:41
+
+
+CAIP Caboolture to Ipswich; Mass 270Te; Power 2880kW; Brake force 35Te; Maximum speed 100 km/h
+,1516
+
+Enters at Sunshine Coast,08:25
+Arrives & departs Petrie,08:26
+Arrives & departs Northgate,08:42
+Arrives & departs Eagle Junction,08:46
+Arrives & departs Bowen Hills,08:52
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,08:53
+
+
+NABR Nambour to Roma Street; Mass 269Te; Power 3000kW; Brake force 31Te; Maximum speed 140 km/h
+,D950
+
+Enters at Sunshine Coast,08:43
+Arrives & departs Petrie,08:44
+Arrives & departs Northgate,09:00
+Arrives & departs Eagle Junction,09:04
+Arrives & departs Bowen Hills,09:10
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,09:11
+
+
+CAIP Caboolture to Ipswich; Mass 270Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,D518
+
+Enters at Sunshine Coast,08:55
+Arrives & departs Petrie,08:56
+Arrives & departs Northgate,09:12
+Arrives & departs Eagle Junction,09:16
+Arrives & departs Bowen Hills,09:22
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,09:23
+
+
+CABR Caboolture to Roma Street; Mass 273Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,D952
+
+Enters at Sunshine Coast,09:13
+Arrives & departs Petrie,09:14
+Arrives & departs Northgate,09:30
+Arrives & departs Eagle Junction,09:34
+Arrives & departs Bowen Hills,09:40
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,09:41
+
+
+NAIP Nambour to Ipswich; Mass 265Te; Power 2880kW; Brake force 35Te; Maximum speed 140 km/h
+,T520
+
+Enters at Sunshine Coast,09:25
+Arrives & departs Petrie,09:26
+Arrives & departs Northgate,09:42
+Arrives & departs Eagle Junction,09:46
+Arrives & departs Bowen Hills,09:52
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,09:53
+
+
+CAIP Caboolture to Ipswich; Mass 270Te; Power 3000kW; Brake force 34Te; Maximum speed 140 km/h
+,D522
+
+Enters at Sunshine Coast,09:55
+Arrives & departs Petrie,09:56
+Arrives & departs Northgate,10:12
+Arrives at Eagle Junction,10:16
+Terminates at Eagle Junction,10:16
+
+
+SPRP Springfield Central to Kippa-ring; Mass 272Te; Power 3000kW; Brake force 33Te; Maximum speed 140 km/h
+,DY07
+
+Created at Lawnton,06:55
+Departs from Lawnton,06:56
+Arrives & departs Petrie,06:59
+Exits railway at Redcliffe,
+allowable exit element(s): 317-31 ,07:00
+
+
+ECS Bowen Hills to Kippa-ring; Mass 265Te; Power 2160kW; Brake force 35Te; Maximum speed 60 km/h
+,2Y29
+
+Created at Eagle Junction,06:55
+Passes Northgate,07:00
+Passes Petrie,07:17
+Exits railway at Redcliffe,
+allowable exit element(s): 317-31 ,07:18
+
+
+SPRP Springfield Central to Kippa-ring; Mass 270Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,DY09,DY11,DY13,DY15
+
+Enters at City Down Main,06:55,07:25,07:55,08:25
+Arrives & departs Bowen Hills,06:56,07:26,07:56,08:26
+Arrives & departs Eagle Junction,07:01,07:31,08:01,08:31
+Arrives & departs Northgate,07:05,07:35,08:05,08:35
+Arrives & departs Virginia,07:07,07:37,08:07,08:37
+Arrives & departs Sunshine,07:08,07:38,08:08,08:38
+Arrives & departs Geebung,07:10,07:40,08:10,08:40
+Arrives & departs Zillmere,07:12,07:42,08:12,08:42
+Arrives & departs Carseldine,07:15,07:45,08:15,08:45
+Arrives & departs Bald Hills,07:18,07:48,08:18,08:48
+Arrives & departs Strathpine,07:21,07:51,08:21,08:51
+Arrives & departs Bray Park,07:23,07:53,08:23,08:53
+Arrives & departs Lawnton,07:26,07:56,08:26,08:56
+Arrives & departs Petrie,07:29,07:59,08:29,08:59
+Exits railway at Redcliffe,
+allowable exit element(s): 317-31 ,07:30,08:00,08:30,09:00
+
+
+ECS Bowen Hills to Kippa-ring
+,EY31
+
+New service at Bowen Hills from,D0T3 at 07:23
+Change maximum speed to 70 at Bowen Hills,07:24
+Departs from Bowen Hills,07:24
+Passes Eagle Junction Down Main,07:28
+Passes Northgate,07:33
+Passes Petrie,07:48
+Exits railway at Redcliffe,
+allowable exit element(s): 317-31 ,07:49
+
+
+ECS Bowen Hills to Kippa-ring
+,AYP1
+
+New service at Bowen Hills from,T009 at 07:37
+Change maximum speed to 80 at Bowen Hills,07:38
+Departs from Bowen Hills,07:38
+Passes Eagle Junction Down Main,07:42
+Passes Northgate,07:46
+Arrives at Petrie,08:01
+Departs from Petrie,08:05
+Exits railway at Redcliffe,
+allowable exit element(s): 317-31 ,08:06
+
+
+ECS Bowen Hills to Kippa-ring
+,EY33
+
+New service at Bowen Hills from,D0U1 at 07:53
+Change maximum speed to 70 at Bowen Hills,07:54
+Departs from Bowen Hills,07:54
+Passes Eagle Junction Down Main,07:58
+Passes Northgate,08:02
+Passes Petrie,08:17
+Exits railway at Redcliffe,
+allowable exit element(s): 317-31 ,08:18
+
+
+ECS Bowen Hills to Kippa-ring
+,EY35
+
+New service at Bowen Hills from,D015 at 08:14
+Change maximum speed to 65 at Bowen Hills,08:15
+Departs from Bowen Hills,08:15
+Passes Eagle Junction Down Main,08:19
+Passes Northgate,08:24
+Passes Petrie,08:39
+Exits railway at Redcliffe,
+allowable exit element(s): 317-31 ,08:40
+
+
+ECS Bowen Hills to Kippa-ring
+,AY37
+
+New service at Bowen Hills from,T0U9 at 08:22
+Change maximum speed to 80 at Bowen Hills,08:23
+Departs from Bowen Hills,08:23
+Passes Eagle Junction Down Main,08:27
+Passes Northgate,08:30
+Passes Petrie,08:45
+Exits railway at Redcliffe,
+allowable exit element(s): 317-31 ,08:46
+
+
+ECS Bowen Hills to Kippa-ring
+,EY39
+
+New service at Bowen Hills from,D021 at 08:49
+Change maximum speed to 80 at Bowen Hills,08:50
+Departs from Bowen Hills,08:50
+Passes Eagle Junction Down Main,08:54
+Passes Northgate,08:58
+Passes Petrie,09:12
+Exits railway at Redcliffe,
+allowable exit element(s): 317-31 ,09:13
+
+
+RWRP Rosewood to Kippa-ring; Mass 270Te; Power 2880kW; Brake force 32Te; Maximum speed 130 km/h
+,1Y17
+
+Enters at City Down Main,08:55
+Arrives & departs Bowen Hills,08:56
+Arrives & departs Eagle Junction,09:01
+Arrives & departs Northgate,09:05
+Arrives & departs Virginia,09:07
+Arrives & departs Sunshine,09:08
+Arrives & departs Geebung,09:10
+Arrives & departs Zillmere,09:12
+Arrives & departs Carseldine,09:15
+Arrives & departs Bald Hills,09:18
+Arrives & departs Strathpine,09:21
+Arrives & departs Bray Park,09:23
+Arrives & departs Lawnton,09:26
+Arrives & departs Petrie,09:29
+Exits railway at Redcliffe,
+allowable exit element(s): 317-31 ,09:30
+
+
+ECS Roma Street to Kippa-ring; Mass 268Te; Power 3000kW; Brake force 32Te; Maximum speed 60 km/h
+,EY41
+
+Enters at Exhibition,09:18
+Passes Eagle Junction Down Main,09:24
+Passes Northgate,09:28
+Passes Petrie,09:45
+Exits railway at Redcliffe,
+allowable exit element(s): 317-31 ,09:46
+
+
+SPRP Springfield Central to Kippa-ring; Mass 278Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,DY19
+
+Enters at City Down Main,09:25
+Arrives & departs Bowen Hills,09:26
+Arrives & departs Eagle Junction,09:31
+Arrives & departs Northgate,09:35
+Arrives & departs Virginia,09:37
+Arrives & departs Sunshine,09:38
+Arrives & departs Geebung,09:40
+Arrives & departs Zillmere,09:42
+Arrives & departs Carseldine,09:45
+Arrives & departs Bald Hills,09:48
+Arrives & departs Strathpine,09:51
+Arrives & departs Bray Park,09:53
+Arrives & departs Lawnton,09:56
+Arrives & departs Petrie,09:59
+Exits railway at Redcliffe,
+allowable exit element(s): 317-31 ,10:00
+
+
+ECS Bowen Hills to Kippa-ring
+,2Y47
+
+New service at Bowen Hills from,1M19 at 09:41
+Change maximum speed to 65 at Bowen Hills,09:42
+Departs from Bowen Hills,09:42
+Passes Eagle Junction,09:47
+Arrives at Nundah,09:49
+Change maximum speed to 75 at Nundah,09:56
+Departs from Nundah,09:56
+Passes Northgate,09:58
+Passes Petrie,10:13
+Exits railway at Redcliffe,
+allowable exit element(s): 317-31 ,10:14
+
+
+SPRP Springfield Central to Kippa-ring; Mass 278Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,DY21
+
+Enters at City Down Main,09:55
+Arrives & departs Bowen Hills,09:56
+Arrives & departs Eagle Junction,10:01
+Arrives & departs Northgate,10:05
+Arrives & departs Virginia,10:07
+Arrives & departs Sunshine,10:08
+Arrives & departs Geebung,10:10
+Arrives & departs Zillmere,10:12
+Arrives at Carseldine,10:15
+Terminates at Carseldine,10:15
+
+
+RPBR Kippa-ring to Roma Street; Mass 273Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,D914
+
+Created at Geebung,06:55
+Departs from Geebung,06:56
+Arrives & departs Sunshine,06:58
+Arrives & departs Virginia,07:00
+Arrives & departs Northgate,07:03
+Arrives & departs Eagle Junction,07:07
+Arrives & departs Bowen Hills,07:13
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,07:14
+
+
+RPBR Kippa-ring to Roma Street; Mass 275Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,D916
+
+Created at Bray Park,06:55
+Departs from Bray Park,06:55
+Arrives & departs Strathpine,06:57
+Arrives & departs Bald Hills,07:00
+Arrives & departs Carseldine,07:04
+Arrives & departs Zillmere,07:06
+Arrives & departs Geebung,07:08
+Arrives & departs Sunshine,07:10
+Arrives & departs Virginia,07:12
+Arrives & departs Northgate,07:15
+Arrives & departs Eagle Junction,07:19
+Arrives & departs Bowen Hills,07:25
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,07:26
+
+
+RPSP Kippa-ring to Springfield Central; Mass 276Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,DK14,DK16
+
+Enters at Redcliffe,07:00,07:30
+Arrives & departs Petrie,07:02,07:32
+Arrives & departs Lawnton,07:04,07:34
+Arrives & departs Bray Park,07:07,07:37
+Arrives & departs Strathpine,07:09,07:39
+Arrives & departs Bald Hills,07:12,07:42
+Arrives & departs Carseldine,07:16,07:46
+Arrives & departs Zillmere,07:18,07:48
+Arrives & departs Geebung,07:20,07:50
+Arrives & departs Sunshine,07:22,07:52
+Arrives & departs Virginia,07:24,07:54
+Arrives & departs Northgate,07:27,07:57
+Arrives & departs Eagle Junction,07:31,08:01
+Arrives & departs Bowen Hills,07:37,08:07
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,07:38,08:08
+
+
+RPBR Kippa-ring to Roma Street; Mass 274Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,D922,D938
+
+Enters at Redcliffe,07:06,07:36
+Arrives & departs Petrie,07:08,07:38
+Arrives & departs Lawnton,07:10,07:40
+Arrives & departs Bray Park,07:13,07:43
+Arrives & departs Strathpine,07:15,07:45
+Arrives & departs Bald Hills,07:18,07:48
+Arrives & departs Carseldine,07:22,07:52
+Arrives & departs Zillmere,07:24,07:54
+Arrives & departs Geebung,07:26,07:56
+Arrives & departs Sunshine,07:28,07:58
+Arrives & departs Virginia,07:30,08:00
+Arrives & departs Northgate,07:33,08:03
+Arrives & departs Eagle Junction,07:37,08:07
+Arrives & departs Bowen Hills,07:43,08:13
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,07:44,08:14
+
+
+RPBR Kippa-ring to Roma Street; Mass 274Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,D926,D928
+
+Enters at Redcliffe,07:12,07:18
+Arrives & departs Petrie,07:14,07:20
+Arrives & departs Lawnton,07:16,07:22
+Arrives & departs Bray Park,07:19,07:25
+Arrives & departs Strathpine,07:21,07:27
+Arrives & departs Bald Hills,07:24,07:30
+Arrives & departs Carseldine,07:28,07:34
+Arrives & departs Zillmere,07:30,07:36
+Arrives & departs Geebung,07:32,07:38
+Arrives & departs Sunshine,07:34,07:40
+Arrives & departs Virginia,07:36,07:42
+Arrives & departs Northgate,07:39,07:45
+Arrives & departs Eagle Junction,07:43,07:49
+Arrives & departs Bowen Hills,07:49,07:55
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,07:50,07:56
+
+
+RPBR Kippa-ring to Roma Street; Mass 264Te; Power 2880kW; Brake force 35Te; Maximum speed 130 km/h
+,1932
+
+Enters at Redcliffe,07:24
+Arrives & departs Petrie,07:26
+Arrives & departs Lawnton,07:28
+Arrives & departs Bray Park,07:31
+Arrives & departs Strathpine,07:33
+Arrives & departs Bald Hills,07:36
+Arrives & departs Carseldine,07:40
+Arrives & departs Zillmere,07:42
+Arrives & departs Geebung,07:44
+Arrives & departs Sunshine,07:46
+Arrives & departs Virginia,07:48
+Arrives & departs Northgate,07:51
+Arrives & departs Eagle Junction,07:55
+Arrives & departs Bowen Hills,08:01
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,08:02
+
+
+RPBR Kippa-ring to Roma Street; Mass 274Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,D942,D948
+
+Enters at Redcliffe,07:42,08:12
+Arrives & departs Petrie,07:44,08:14
+Arrives & departs Lawnton,07:46,08:16
+Arrives & departs Bray Park,07:49,08:19
+Arrives & departs Strathpine,07:51,08:21
+Arrives & departs Bald Hills,07:54,08:24
+Arrives & departs Carseldine,07:58,08:28
+Arrives & departs Zillmere,08:00,08:30
+Arrives & departs Geebung,08:02,08:32
+Arrives & departs Sunshine,08:04,08:34
+Arrives & departs Virginia,08:06,08:36
+Arrives & departs Northgate,08:09,08:39
+Arrives & departs Eagle Junction,08:13,08:43
+Arrives & departs Bowen Hills,08:19,08:49
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,08:20,08:50
+
+
+RPBR Kippa-ring to Roma Street; Mass 267Te; Power 2160kW; Brake force 35Te; Maximum speed 100 km/h
+,1944
+
+Enters at Redcliffe,07:54
+Arrives & departs Petrie,07:56
+Arrives & departs Lawnton,07:58
+Arrives & departs Bray Park,08:01
+Arrives & departs Strathpine,08:03
+Arrives & departs Bald Hills,08:06
+Arrives & departs Carseldine,08:10
+Arrives & departs Zillmere,08:12
+Arrives & departs Geebung,08:14
+Arrives & departs Sunshine,08:16
+Arrives & departs Virginia,08:18
+Arrives & departs Northgate,08:21
+Arrives & departs Eagle Junction,08:25
+Arrives & departs Bowen Hills,08:31
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,08:32
+
+
+RPSP Kippa-ring to Springfield Central; Mass 276Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,DK20,DK22
+
+Enters at Redcliffe,08:30,08:48
+Arrives & departs Petrie,08:32,08:50
+Arrives & departs Lawnton,08:34,08:52
+Arrives & departs Bray Park,08:37,08:55
+Arrives & departs Strathpine,08:39,08:57
+Arrives & departs Bald Hills,08:42,09:00
+Arrives & departs Carseldine,08:46,09:04
+Arrives & departs Zillmere,08:48,09:06
+Arrives & departs Geebung,08:50,09:08
+Arrives & departs Sunshine,08:52,09:10
+Arrives & departs Virginia,08:54,09:12
+Arrives & departs Northgate,08:57,09:15
+Arrives & departs Eagle Junction,09:01,09:19
+Arrives & departs Bowen Hills,09:07,09:25
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,09:08,09:26
+
+
+RPBR Kippa-ring to Roma Street; Mass 272Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,D954
+
+Enters at Redcliffe,09:06
+Arrives & departs Petrie,09:08
+Arrives & departs Lawnton,09:10
+Arrives & departs Bray Park,09:13
+Arrives & departs Strathpine,09:15
+Arrives & departs Bald Hills,09:18
+Arrives & departs Carseldine,09:22
+Arrives & departs Zillmere,09:24
+Arrives & departs Geebung,09:26
+Arrives & departs Sunshine,09:28
+Arrives & departs Virginia,09:30
+Arrives & departs Northgate,09:33
+Arrives & departs Eagle Junction,09:37
+Arrives & departs Bowen Hills,09:43
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,09:44
+
+
+RPBR Kippa-ring to Roma Street; Mass 272Te; Power 2880kW; Brake force 32Te; Maximum speed 130 km/h
+,T956
+
+Enters at Redcliffe,09:18
+Arrives & departs Petrie,09:20
+Arrives & departs Lawnton,09:22
+Arrives & departs Bray Park,09:25
+Arrives & departs Strathpine,09:27
+Arrives & departs Bald Hills,09:30
+Arrives & departs Carseldine,09:34
+Arrives & departs Zillmere,09:36
+Arrives & departs Geebung,09:38
+Arrives & departs Sunshine,09:40
+Arrives & departs Virginia,09:42
+Arrives & departs Northgate,09:45
+Arrives & departs Eagle Junction,09:49
+Arrives & departs Bowen Hills,09:55
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,09:56
+
+
+RPSP Kippa-ring to Springfield Central; Mass 272Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,DK24
+
+Enters at Redcliffe,09:30
+Arrives & departs Petrie,09:32
+Arrives & departs Lawnton,09:34
+Arrives & departs Bray Park,09:37
+Arrives & departs Strathpine,09:39
+Arrives & departs Bald Hills,09:42
+Arrives & departs Carseldine,09:46
+Arrives & departs Zillmere,09:48
+Arrives & departs Geebung,09:50
+Arrives & departs Sunshine,09:52
+Arrives & departs Virginia,09:54
+Arrives & departs Northgate,09:57
+Arrives & departs Eagle Junction,10:01
+Arrives & departs Bowen Hills,10:07
+Exits railway at City Up Main,
+allowable exit element(s): 2-17 ,10:08
+
+
+RPBR Kippa-ring to Roma Street; Mass 271Te; Power 3000kW; Brake force 33Te; Maximum speed 140 km/h
+,D958
+
+Enters at Redcliffe,09:43
+Arrives & departs Petrie,09:44
+Arrives & departs Lawnton,09:46
+Arrives & departs Bray Park,09:49
+Arrives & departs Strathpine,09:51
+Arrives & departs Bald Hills,09:54
+Arrives & departs Carseldine,09:58
+Arrives & departs Zillmere,10:00
+Arrives & departs Geebung,10:02
+Arrives & departs Sunshine,10:04
+Arrives & departs Virginia,10:06
+Arrives & departs Northgate,10:09
+Arrives & departs Eagle Junction,10:13
+Arrives at Bowen Hills,10:19
+Terminates at Bowen Hills,10:19
+
+
+SHCL Shorncliffe to Cleveland; Mass 258Te; Power 2160kW; Brake force 32Te; Maximum speed 100 km/h
+,1818
+
+Created at Bowen Hills,06:55
+Departs from Bowen Hills,06:56
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,06:57
+
+
+SHCL Shorncliffe to Cleveland; Mass 272Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,D820
+
+Created at Bindha,06:55
+Departs from Bindha,06:55
+Arrives & departs Northgate,06:57
+Arrives & departs Nundah,06:59
+Arrives & departs Toombul,07:01
+Arrives & departs Eagle Junction,07:03
+Arrives & departs Wooloowin,07:05
+Arrives & departs Albion,07:07
+Arrives & departs Bowen Hills,07:11
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:12
+
+
+SHCL Shorncliffe to Cleveland; Mass 268Te; Power 2880kW; Brake force 33Te; Maximum speed 130 km/h
+,1822
+
+Created at Shorncliffe,06:55
+Departs from Shorncliffe,06:55
+Arrives & departs Sandgate,06:56
+Arrives & departs Deagon,06:58
+Arrives & departs North Boondall,07:00
+Arrives & departs Boondall,07:02
+Arrives & departs Nudgee,07:05
+Arrives & departs Banyo,07:07
+Arrives & departs Bindha,07:09
+Arrives & departs Northgate,07:12
+Arrives & departs Nundah,07:14
+Arrives & departs Toombul,07:16
+Arrives & departs Eagle Junction,07:18
+Arrives & departs Wooloowin,07:20
+Arrives & departs Albion,07:22
+Arrives & departs Bowen Hills,07:26
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:27
+
+
+CLSH Cleveland to Shorncliffe; Mass 275Te; Power 3000kW; Brake force 34Te; Maximum speed 140 km/h
+,DA13
+
+Created at 176-41,06:55
+Arrives & departs Boondall,06:57
+Arrives & departs North Boondall,06:59
+Arrives & departs Deagon,07:01
+Arrives & departs Sandgate,07:03
+Arrives at Shorncliffe,07:05
+Changes direction at Shorncliffe,07:07
+At Shorncliffe forms new service,D824 at 07:07
+
+
+SHCL Shorncliffe to Cleveland
+,D824
+
+New service at Shorncliffe from,DA13 at 07:07
+Departs from Shorncliffe,07:09
+Arrives & departs Sandgate,07:11
+Arrives & departs Deagon,07:13
+Arrives & departs North Boondall,07:15
+Arrives & departs Boondall,07:17
+Arrives & departs Nudgee,07:20
+Arrives & departs Banyo,07:22
+Arrives & departs Bindha,07:24
+Arrives & departs Northgate,07:27
+Arrives & departs Nundah,07:29
+Arrives & departs Toombul,07:31
+Arrives & departs Eagle Junction,07:33
+Arrives & departs Wooloowin,07:35
+Arrives & departs Albion,07:37
+Arrives & departs Bowen Hills,07:41
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:42
+
+
+CLSH Cleveland to Shorncliffe; Mass 285Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,DA15
+
+Created at Eagle Junction,06:55
+Departs from Eagle Junction,06:56
+Arrives & departs Toombul,06:58
+Arrives & departs Nundah,07:00
+Arrives & departs Northgate,07:02
+Arrives & departs Bindha,07:05
+Arrives & departs Banyo,07:07
+Arrives & departs Nudgee,07:09
+Arrives & departs Boondall,07:12
+Arrives & departs North Boondall,07:14
+Arrives & departs Deagon,07:16
+Arrives & departs Sandgate,07:18
+Arrives at Shorncliffe,07:20
+Changes direction at Shorncliffe,07:22
+At Shorncliffe forms new service,DH04 at 07:22
+
+
+SHCL Shorncliffe to Cannon Hill
+,DH04
+
+New service at Shorncliffe from,DA15 at 07:22
+Departs from Shorncliffe,07:24
+Arrives & departs Sandgate,07:26
+Arrives & departs Deagon,07:28
+Arrives & departs North Boondall,07:30
+Arrives & departs Boondall,07:32
+Arrives & departs Nudgee,07:35
+Arrives & departs Banyo,07:37
+Arrives & departs Bindha,07:39
+Arrives & departs Northgate,07:42
+Arrives & departs Nundah,07:44
+Arrives & departs Toombul,07:46
+Arrives & departs Eagle Junction,07:48
+Arrives & departs Wooloowin,07:50
+Arrives & departs Albion,07:52
+Arrives & departs Bowen Hills,07:56
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:57
+
+
+CLSH Cleveland to Shorncliffe; Mass 270Te; Power 2160kW; Brake force 32Te; Maximum speed 100 km/h
+,1A17
+
+Enters at City Down Suburban,07:02
+Arrives & departs Bowen Hills,07:03
+Arrives & departs Albion,07:07
+Arrives & departs Wooloowin,07:09
+Arrives & departs Eagle Junction,07:11
+Arrives & departs Toombul,07:13
+Arrives & departs Nundah,07:15
+Arrives & departs Northgate,07:17
+Arrives & departs Bindha,07:20
+Arrives & departs Banyo,07:22
+Arrives & departs Nudgee,07:24
+Arrives & departs Boondall,07:27
+Arrives & departs North Boondall,07:29
+Arrives & departs Deagon,07:31
+Arrives & departs Sandgate,07:33
+Arrives at Shorncliffe,07:35
+Changes direction at Shorncliffe,07:37
+At Shorncliffe forms new service,1826 at 07:37
+
+
+SHCL Shorncliffe to Cleveland
+,1826
+
+New service at Shorncliffe from,1A17 at 07:37
+Departs from Shorncliffe,07:39
+Arrives & departs Sandgate,07:41
+Arrives & departs Deagon,07:43
+Arrives & departs North Boondall,07:45
+Arrives & departs Boondall,07:47
+Arrives & departs Nudgee,07:50
+Arrives & departs Banyo,07:52
+Arrives & departs Bindha,07:54
+Arrives & departs Northgate,07:57
+Arrives & departs Nundah,07:59
+Arrives & departs Toombul,08:01
+Arrives & departs Eagle Junction,08:03
+Arrives & departs Wooloowin,08:05
+Arrives & departs Albion,08:07
+Arrives & departs Bowen Hills,08:11
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:12
+
+
+CLSH Manly to Shorncliffe; Mass 274Te; Power 2880kW; Brake force 35Te; Maximum speed 130 km/h
+,1A19
+
+Enters at City Down Suburban,07:17
+Arrives & departs Bowen Hills,07:18
+Arrives & departs Albion,07:22
+Arrives & departs Wooloowin,07:24
+Arrives & departs Eagle Junction,07:26
+Arrives & departs Toombul,07:28
+Arrives & departs Nundah,07:30
+Arrives & departs Northgate,07:32
+Arrives & departs Bindha,07:35
+Arrives & departs Banyo,07:37
+Arrives & departs Nudgee,07:39
+Arrives & departs Boondall,07:42
+Arrives & departs North Boondall,07:44
+Arrives & departs Deagon,07:46
+Arrives & departs Sandgate,07:48
+Arrives at Shorncliffe,07:50
+Changes direction at Shorncliffe,07:52
+At Shorncliffe forms new service,1H06 at 07:52
+
+
+SHCL Shorncliffe to Cannon Hill
+,1H06
+
+New service at Shorncliffe from,1A19 at 07:52
+Departs from Shorncliffe,07:54
+Arrives & departs Sandgate,07:56
+Arrives & departs Deagon,07:58
+Arrives & departs North Boondall,08:00
+Arrives & departs Boondall,08:02
+Arrives & departs Nudgee,08:05
+Arrives & departs Banyo,08:07
+Arrives & departs Bindha,08:09
+Arrives & departs Northgate,08:12
+Arrives & departs Nundah,08:14
+Arrives & departs Toombul,08:16
+Arrives & departs Eagle Junction,08:18
+Arrives & departs Wooloowin,08:20
+Arrives & departs Albion,08:22
+Arrives & departs Bowen Hills,08:26
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:27
+
+
+CLSH Manly to Shorncliffe; Mass 278Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,DA21
+
+Enters at City Down Suburban,07:32
+Arrives & departs Bowen Hills,07:33
+Arrives & departs Albion,07:37
+Arrives & departs Wooloowin,07:39
+Arrives & departs Eagle Junction,07:41
+Arrives & departs Toombul,07:43
+Arrives & departs Nundah,07:45
+Arrives & departs Northgate,07:47
+Arrives & departs Bindha,07:50
+Arrives & departs Banyo,07:52
+Arrives & departs Nudgee,07:54
+Arrives & departs Boondall,07:57
+Arrives & departs North Boondall,07:59
+Arrives & departs Deagon,08:01
+Arrives & departs Sandgate,08:03
+Arrives at Shorncliffe,08:05
+Changes direction at Shorncliffe,08:07
+At Shorncliffe forms new service,D828 at 08:07
+
+
+SHCL Shorncliffe to Cleveland
+,D828
+
+New service at Shorncliffe from,DA21 at 08:07
+Departs from Shorncliffe,08:09
+Arrives & departs Sandgate,08:11
+Arrives & departs Deagon,08:13
+Arrives & departs North Boondall,08:15
+Arrives & departs Boondall,08:17
+Arrives & departs Nudgee,08:20
+Arrives & departs Banyo,08:22
+Arrives & departs Bindha,08:24
+Arrives & departs Northgate,08:27
+Arrives & departs Nundah,08:29
+Arrives & departs Toombul,08:31
+Arrives & departs Eagle Junction,08:33
+Arrives & departs Wooloowin,08:35
+Arrives & departs Albion,08:37
+Arrives & departs Bowen Hills,08:41
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:42
+
+
+CLSH Manly to Shorncliffe; Mass 270Te; Power 2160kW; Brake force 35Te; Maximum speed 100 km/h
+,1A23
+
+Enters at City Down Suburban,07:47
+Arrives & departs Bowen Hills,07:48
+Arrives & departs Albion,07:52
+Arrives & departs Wooloowin,07:54
+Arrives & departs Eagle Junction,07:56
+Arrives & departs Toombul,07:58
+Arrives & departs Nundah,08:00
+Arrives & departs Northgate,08:02
+Arrives & departs Bindha,08:05
+Arrives & departs Banyo,08:07
+Arrives & departs Nudgee,08:09
+Arrives & departs Boondall,08:12
+Arrives & departs North Boondall,08:14
+Arrives & departs Deagon,08:16
+Arrives & departs Sandgate,08:18
+Arrives at Shorncliffe,08:20
+Changes direction at Shorncliffe,08:22
+At Shorncliffe forms new service,1H08 at 08:22
+
+
+SHCL Shorncliffe to Cannon Hill
+,1H08
+
+New service at Shorncliffe from,1A23 at 08:22
+Departs from Shorncliffe,08:24
+Arrives & departs Sandgate,08:26
+Arrives & departs Deagon,08:28
+Arrives & departs North Boondall,08:30
+Arrives & departs Boondall,08:32
+Arrives & departs Nudgee,08:35
+Arrives & departs Banyo,08:37
+Arrives & departs Bindha,08:39
+Arrives & departs Northgate,08:42
+Arrives & departs Nundah,08:44
+Arrives & departs Toombul,08:46
+Arrives & departs Eagle Junction,08:48
+Arrives & departs Wooloowin,08:50
+Arrives & departs Albion,08:52
+Arrives & departs Bowen Hills,08:56
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:57
+
+
+CLSH Manly to Shorncliffe; Mass 274Te; Power 3000kW; Brake force 30Te; Maximum speed 140 km/h
+,DA25
+
+Enters at City Down Suburban,08:02
+Arrives & departs Bowen Hills,08:03
+Arrives & departs Albion,08:07
+Arrives & departs Wooloowin,08:09
+Arrives & departs Eagle Junction,08:11
+Arrives & departs Toombul,08:13
+Arrives & departs Nundah,08:15
+Arrives & departs Northgate,08:17
+Arrives & departs Bindha,08:20
+Arrives & departs Banyo,08:22
+Arrives & departs Nudgee,08:24
+Arrives & departs Boondall,08:27
+Arrives & departs North Boondall,08:29
+Arrives & departs Deagon,08:31
+Arrives & departs Sandgate,08:33
+Arrives at Shorncliffe,08:35
+Changes direction at Shorncliffe,08:37
+At Shorncliffe forms new service,D830 at 08:37
+
+
+SHCL Shorncliffe to Cleveland
+,D830
+
+New service at Shorncliffe from,DA25 at 08:37
+Departs from Shorncliffe,08:39
+Arrives & departs Sandgate,08:41
+Arrives & departs Deagon,08:43
+Arrives & departs North Boondall,08:45
+Arrives & departs Boondall,08:47
+Arrives & departs Nudgee,08:50
+Arrives & departs Banyo,08:52
+Arrives & departs Bindha,08:54
+Arrives & departs Northgate,08:57
+Arrives & departs Nundah,08:59
+Arrives & departs Toombul,09:01
+Arrives & departs Eagle Junction,09:03
+Arrives & departs Wooloowin,09:05
+Arrives & departs Albion,09:07
+Arrives & departs Bowen Hills,09:11
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:12
+
+
+CLSH Manly to Shorncliffe; Mass 270Te; Power 2880kW; Brake force 35Te; Maximum speed 100 km/h
+,1A27
+
+Enters at City Down Suburban,08:17
+Arrives & departs Bowen Hills,08:18
+Arrives & departs Albion,08:22
+Arrives & departs Wooloowin,08:24
+Arrives & departs Eagle Junction,08:26
+Arrives & departs Toombul,08:28
+Arrives & departs Nundah,08:30
+Arrives & departs Northgate,08:32
+Arrives & departs Bindha,08:35
+Arrives & departs Banyo,08:37
+Arrives & departs Nudgee,08:39
+Arrives & departs Boondall,08:42
+Arrives & departs North Boondall,08:44
+Arrives & departs Deagon,08:46
+Arrives & departs Sandgate,08:48
+Arrives at Shorncliffe,08:50
+Changes direction at Shorncliffe,08:52
+At Shorncliffe forms new service,1H10 at 08:52
+
+
+SHCL Shorncliffe to Cannon Hill
+,1H10
+
+New service at Shorncliffe from,1A27 at 08:52
+Departs from Shorncliffe,08:54
+Arrives & departs Sandgate,08:56
+Arrives & departs Deagon,08:58
+Arrives & departs North Boondall,09:00
+Arrives & departs Boondall,09:02
+Arrives & departs Nudgee,09:05
+Arrives & departs Banyo,09:07
+Arrives & departs Bindha,09:09
+Arrives & departs Northgate,09:12
+Arrives & departs Nundah,09:14
+Arrives & departs Toombul,09:16
+Arrives & departs Eagle Junction,09:18
+Arrives & departs Wooloowin,09:20
+Arrives & departs Albion,09:22
+Arrives & departs Bowen Hills,09:26
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:27
+
+
+CLSH Manly to Shorncliffe; Mass 270Te; Power 2160kW; Brake force 34Te; Maximum speed 100 km/h
+,1A29
+
+Enters at City Down Suburban,08:32
+Arrives & departs Bowen Hills,08:33
+Arrives & departs Albion,08:37
+Arrives & departs Wooloowin,08:39
+Arrives & departs Eagle Junction,08:41
+Arrives & departs Toombul,08:43
+Arrives & departs Nundah,08:45
+Arrives & departs Northgate,08:47
+Arrives & departs Bindha,08:50
+Arrives & departs Banyo,08:52
+Arrives & departs Nudgee,08:54
+Arrives & departs Boondall,08:57
+Arrives & departs North Boondall,08:59
+Arrives & departs Deagon,09:01
+Arrives & departs Sandgate,09:03
+Arrives at Shorncliffe,09:05
+Changes direction at Shorncliffe,09:07
+At Shorncliffe forms new service,1832 at 09:07
+
+
+SHCL Shorncliffe to Cleveland
+,1832
+
+New service at Shorncliffe from,1A29 at 09:07
+Departs from Shorncliffe,09:09
+Arrives & departs Sandgate,09:11
+Arrives & departs Deagon,09:13
+Arrives & departs North Boondall,09:15
+Arrives & departs Boondall,09:17
+Arrives & departs Nudgee,09:20
+Arrives & departs Banyo,09:22
+Arrives & departs Bindha,09:24
+Arrives & departs Northgate,09:27
+Arrives & departs Nundah,09:29
+Arrives & departs Toombul,09:31
+Arrives & departs Eagle Junction,09:33
+Arrives & departs Wooloowin,09:35
+Arrives & departs Albion,09:37
+Arrives & departs Bowen Hills,09:41
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:42
+
+
+CLSH Cleveland to Shorncliffe; Mass 275Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,DA31
+
+Enters at City Down Suburban,08:47
+Arrives & departs Bowen Hills,08:48
+Arrives & departs Albion,08:52
+Arrives & departs Wooloowin,08:54
+Arrives & departs Eagle Junction,08:56
+Arrives & departs Toombul,08:58
+Arrives & departs Nundah,09:00
+Arrives & departs Northgate,09:02
+Arrives & departs Bindha,09:05
+Arrives & departs Banyo,09:07
+Arrives & departs Nudgee,09:09
+Arrives & departs Boondall,09:12
+Arrives & departs North Boondall,09:14
+Arrives & departs Deagon,09:16
+Arrives & departs Sandgate,09:18
+Arrives at Shorncliffe,09:20
+Changes direction at Shorncliffe,09:22
+At Shorncliffe forms new service,DH12 at 09:22
+
+
+SHCL Shorncliffe to Cannon Hill
+,DH12
+
+New service at Shorncliffe from,DA31 at 09:22
+Departs from Shorncliffe,09:24
+Arrives & departs Sandgate,09:26
+Arrives & departs Deagon,09:28
+Arrives & departs North Boondall,09:30
+Arrives & departs Boondall,09:32
+Arrives & departs Nudgee,09:35
+Arrives & departs Banyo,09:37
+Arrives & departs Bindha,09:39
+Arrives & departs Northgate,09:42
+Arrives & departs Nundah,09:44
+Arrives & departs Toombul,09:46
+Arrives & departs Eagle Junction,09:48
+Arrives & departs Wooloowin,09:50
+Arrives & departs Albion,09:52
+Arrives & departs Bowen Hills,09:56
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:57
+
+
+CLSH Cleveland to Shorncliffe; Mass 275Te; Power 3000kW; Brake force 30Te; Maximum speed 140 km/h
+,DA33
+
+Enters at City Down Suburban,09:02
+Arrives & departs Bowen Hills,09:03
+Arrives & departs Albion,09:07
+Arrives & departs Wooloowin,09:09
+Arrives & departs Eagle Junction,09:11
+Arrives & departs Toombul,09:13
+Arrives & departs Nundah,09:15
+Arrives & departs Northgate,09:17
+Arrives & departs Bindha,09:20
+Arrives & departs Banyo,09:22
+Arrives & departs Nudgee,09:24
+Arrives & departs Boondall,09:27
+Arrives & departs North Boondall,09:29
+Arrives & departs Deagon,09:31
+Arrives & departs Sandgate,09:33
+Arrives at Shorncliffe,09:35
+Changes direction at Shorncliffe,09:37
+At Shorncliffe forms new service,D834 at 09:37
+
+
+SHCL Shorncliffe to Cannon Hill
+,D834
+
+New service at Shorncliffe from,DA33 at 09:37
+Departs from Shorncliffe,09:39
+Arrives & departs Sandgate,09:41
+Arrives & departs Deagon,09:43
+Arrives & departs North Boondall,09:45
+Arrives & departs Boondall,09:47
+Arrives & departs Nudgee,09:50
+Arrives & departs Banyo,09:52
+Arrives & departs Bindha,09:54
+Arrives & departs Northgate,09:57
+Arrives & departs Nundah,09:59
+Arrives & departs Toombul,10:01
+Arrives & departs Eagle Junction,10:03
+Arrives & departs Wooloowin,10:05
+Arrives & departs Albion,10:07
+Arrives & departs Bowen Hills,10:11
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,10:12
+
+
+CLSH Cleveland to Shorncliffe; Mass 275Te; Power 3000kW; Brake force 30Te; Maximum speed 140 km/h
+,DA35
+
+Enters at City Down Suburban,09:17
+Arrives & departs Bowen Hills,09:18
+Arrives & departs Albion,09:22
+Arrives & departs Wooloowin,09:24
+Arrives & departs Eagle Junction,09:26
+Arrives & departs Toombul,09:28
+Arrives & departs Nundah,09:30
+Arrives & departs Northgate,09:32
+Arrives & departs Bindha,09:35
+Arrives & departs Banyo,09:37
+Arrives & departs Nudgee,09:39
+Arrives & departs Boondall,09:42
+Arrives & departs North Boondall,09:44
+Arrives & departs Deagon,09:46
+Arrives & departs Sandgate,09:48
+Arrives at Shorncliffe,09:50
+Changes direction at Shorncliffe,09:52
+At Shorncliffe forms new service,DH14 at 09:52
+
+
+SHCL Shorncliffe to Cannon Hill
+,DH14
+
+New service at Shorncliffe from,DA35 at 09:52
+Departs from Shorncliffe,09:54
+Arrives & departs Sandgate,09:56
+Arrives & departs Deagon,09:58
+Arrives & departs North Boondall,10:00
+Arrives & departs Boondall,10:02
+Arrives & departs Nudgee,10:05
+Arrives & departs Banyo,10:07
+Arrives & departs Bindha,10:09
+Arrives & departs Northgate,10:12
+Arrives & departs Nundah,10:14
+Arrives at Toombul,10:16
+Terminates at Toombul,10:16
+
+
+CLSH Cleveland to Northgate; Mass 270Te; Power 2160kW; Brake force 32Te; Maximum speed 100 km/h
+,1W05
+
+Enters at City Down Suburban,09:32
+Arrives & departs Bowen Hills,09:33
+Arrives & departs Albion,09:37
+Arrives & departs Wooloowin,09:39
+Arrives & departs Eagle Junction,09:41
+Arrives & departs Toombul,09:43
+Arrives & departs Nundah,09:45
+Arrives at Northgate,09:47
+At Northgate forms new service,2A23 at 09:47
+
+
+ECS Northgate to Shorncliffe
+,2A23
+
+New service at Northgate from,1W05 at 09:47
+Change maximum speed to 55 at Northgate,09:48
+Departs from Northgate,09:48
+Arrives at Shorncliffe,10:00
+Changes direction at Shorncliffe,10:02
+At Shorncliffe forms new service,1836 at 10:04
+
+
+SHCL Shorncliffe to Cleveland
+,1836
+
+New service at Shorncliffe from,2A23 at 10:04
+Change maximum speed to 100 at Shorncliffe,10:05
+Departs from Shorncliffe,10:09
+Arrives & departs Sandgate,10:11
+Arrives & departs Deagon,10:13
+Arrives at North Boondall,10:15
+Terminates at North Boondall,10:15
+
+
+CLSH Cleveland to Shorncliffe; Mass 272Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,DA37
+
+Enters at City Down Suburban,09:47
+Arrives & departs Bowen Hills,09:48
+Arrives & departs Albion,09:52
+Arrives & departs Wooloowin,09:54
+Arrives & departs Eagle Junction,09:56
+Arrives & departs Toombul,09:58
+Arrives & departs Nundah,10:00
+Arrives & departs Northgate,10:02
+Arrives & departs Bindha,10:05
+Arrives & departs Banyo,10:07
+Arrives & departs Nudgee,10:09
+Arrives & departs Boondall,10:12
+Arrives & departs North Boondall,10:14
+Arrives at Deagon,10:16
+Terminates at Deagon,10:16
+
+
+ECS Redbank Stabling to Banyo Stabling S1; Mass 260Te; Power 2880kW; Brake force 32Te; Maximum speed 45 km/h
+,AA09
+
+Created at 22-18,06:55
+Passes Eagle Junction,07:00
+Passes Northgate,07:05
+Arrives at Bindha,07:08
+Departs from Bindha,07:09
+Arrives at Banyo Stabling,07:11
+Changes direction at Banyo Stabling,07:17
+At Banyo Stabling forms new service,AS26 at 07:19
+
+
+ECS Banyo Stabling to Northgate
+,AS26
+
+New service at Banyo Stabling from,AA09 at 07:19
+Change maximum speed to 30 at Banyo Stabling,07:20
+Departs from Banyo Stabling,07:29
+Arrives at Northgate,07:33
+At Northgate forms new service,TS26 at 07:33
+
+
+SHBR Northgate to Boggo Road
+,TS26
+
+New service at Northgate from,AS26 at 07:33
+Change maximum speed to 130 at Northgate,07:34
+Departs from Northgate,07:34
+Arrives & departs Nundah,07:36
+Arrives & departs Toombul,07:38
+Arrives & departs Eagle Junction,07:40
+Arrives & departs Wooloowin,07:42
+Arrives & departs Albion,07:44
+Arrives & departs Bowen Hills,07:48
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:49
+
+
+ECS Bowen Hills to Banyo Stabling S2 via Down Sub
+,EA11
+
+New service at Bowen Hills from,D007 at 07:14
+Change maximum speed to 60 at Bowen Hills,07:14
+Departs from Bowen Hills,07:15
+Passes Eagle Junction,07:19
+Arrives at Northgate,07:23
+Change maximum speed to 30 at Northgate,07:24
+Departs from Northgate,07:24
+Arrives at Banyo Stabling,07:29
+Changes direction at Banyo Stabling,07:33
+At Banyo Stabling forms new service,ES30 at 07:34
+
+
+ECS Banyo Stabling to Northgate
+,ES30
+
+New service at Banyo Stabling from,EA11 at 07:34
+Departs from Banyo Stabling,07:44
+Arrives at Northgate,07:48
+At Northgate forms new service,DS30 at 07:48
+
+
+SHBR Northgate to Boggo Road
+,DS30
+
+New service at Northgate from,ES30 at 07:48
+Change maximum speed to 140 at Northgate,07:49
+Departs from Northgate,07:49
+Arrives & departs Nundah,07:51
+Arrives & departs Toombul,07:53
+Arrives & departs Eagle Junction,07:55
+Arrives & departs Wooloowin,07:57
+Arrives & departs Albion,07:59
+Arrives & departs Bowen Hills,08:03
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:04
+
+
+ECS Bowen Hills to Banyo Stabling S1
+,EA13
+
+New service at Bowen Hills from,DMT3 at 07:26
+Change maximum speed to 50 at Bowen Hills,07:26
+Departs from Bowen Hills,07:26
+Passes Eagle Junction,07:32
+Passes Northgate,07:37
+Arrives at Banyo Stabling,07:42
+Changes direction at Banyo Stabling,07:48
+At Banyo Stabling forms new service,ES36 at 07:49
+
+
+ECS Banyo Stabling to Northgate
+,ES36
+
+New service at Banyo Stabling from,EA13 at 07:49
+Change maximum speed to 30 at Banyo Stabling,07:50
+Departs from Banyo Stabling,07:59
+Arrives at Northgate,08:03
+At Northgate forms new service,DS36 at 08:03
+
+
+SHBR Northgate to Boggo Road
+,DS36
+
+New service at Northgate from,ES36 at 08:03
+Change maximum speed to 140 at Northgate,08:04
+Departs from Northgate,08:04
+Arrives & departs Nundah,08:06
+Arrives & departs Toombul,08:08
+Arrives & departs Eagle Junction,08:10
+Arrives & departs Wooloowin,08:12
+Arrives & departs Albion,08:14
+Arrives & departs Bowen Hills,08:18
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:19
+
+
+ECS Bowen Hills to Banyo Stabling S2
+,EA15
+
+New service at Bowen Hills from,DMT5 at 07:40
+Change maximum speed to 50 at Bowen Hills,07:41
+Departs from Bowen Hills,07:41
+Passes Eagle Junction,07:48
+Passes Northgate,07:52
+Arrives at Banyo Stabling,07:57
+Changes direction at Banyo Stabling,08:03
+At Banyo Stabling forms new service,ES38 at 08:04
+
+
+ECS Banyo Stabling to Northgate
+,ES38
+
+New service at Banyo Stabling from,EA15 at 08:04
+Change maximum speed to 30 at Banyo Stabling,08:05
+Departs from Banyo Stabling,08:14
+Arrives at Northgate,08:18
+At Northgate forms new service,DS38 at 08:18
+
+
+SHBR Northgate to Boggo Road
+,DS38
+
+New service at Northgate from,ES38 at 08:18
+Change maximum speed to 140 at Northgate,08:18
+Departs from Northgate,08:19
+Arrives & departs Nundah,08:21
+Arrives & departs Toombul,08:23
+Arrives & departs Eagle Junction,08:25
+Arrives & departs Wooloowin,08:27
+Arrives & departs Albion,08:29
+Arrives & departs Bowen Hills,08:33
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:34
+
+
+ECS Bowen Hills to Banyo Stabling S1
+,EA17
+
+New service at Bowen Hills from,DMT7 at 07:56
+Change maximum speed to 50 at Bowen Hills,07:56
+Departs from Bowen Hills,07:56
+Passes Eagle Junction,08:02
+Passes Northgate,08:06
+Arrives at Bindha,08:08
+Departs from Bindha,08:09
+Arrives at Banyo Stabling,08:11
+Changes direction at Banyo Stabling,08:18
+At Banyo Stabling forms new service,ER12 at 08:19
+
+
+ECS Banyo Stabling to Northgate
+,ER12
+
+New service at Banyo Stabling from,EA17 at 08:19
+Change maximum speed to 30 at Banyo Stabling,08:20
+Departs from Banyo Stabling,08:29
+Arrives at Northgate,08:33
+At Northgate forms new service,DR12 at 08:33
+
+
+SHBR Northgate to Roma Street
+,DR12
+
+New service at Northgate from,ER12 at 08:33
+Change maximum speed to 140 at Northgate,08:34
+Departs from Northgate,08:34
+Arrives & departs Nundah,08:36
+Arrives & departs Toombul,08:38
+Arrives & departs Eagle Junction,08:40
+Arrives & departs Wooloowin,08:42
+Arrives & departs Albion,08:44
+Arrives & departs Bowen Hills,08:48
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:49
+
+
+ECS Bowen Hills to Banyo Stabling S2
+,EA19
+
+New service at Bowen Hills from,DMT9 at 08:10
+Change maximum speed to 50 at Bowen Hills,08:11
+Departs from Bowen Hills,08:11
+Passes Eagle Junction,08:18
+Passes Northgate,08:22
+Arrives at Banyo Stabling,08:27
+Changes direction at Banyo Stabling,08:47
+At Banyo Stabling forms new service,ES44 at 08:49
+
+
+ECS Banyo Stabling to Northgate
+,ES44
+
+New service at Banyo Stabling from,EA19 at 08:49
+Change maximum speed to 30 at Banyo Stabling,08:50
+Departs from Banyo Stabling,08:59
+Arrives at Northgate,09:03
+At Northgate forms new service,DS44 at 09:03
+
+
+SHBR Northgate to Boggo Road
+,DS44
+
+New service at Northgate from,ES44 at 09:03
+Change maximum speed to 140 at Northgate,09:04
+Departs from Northgate,09:04
+Arrives & departs Nundah,09:06
+Arrives & departs Toombul,09:08
+Arrives & departs Eagle Junction,09:10
+Arrives & departs Wooloowin,09:12
+Arrives & departs Albion,09:14
+Arrives & departs Bowen Hills,09:18
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:19
+
+
+ECS Bowen Hills to Banyo Stabling N1
+,EA21
+
+New service at Bowen Hills from,DM17 at 09:11
+Change maximum speed to 50 at Bowen Hills,09:12
+Departs from Bowen Hills,09:12
+Passes Eagle Junction,09:17
+Arrives at Northgate,09:23
+Change maximum speed to 30 at Northgate,09:23
+Departs from Northgate,09:24
+Arrives at Banyo Stabling,09:29
+Terminates at Banyo Stabling,09:29
+
+
+BDVL Domestic Airport to Varsity Lakes; Mass 272Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,DG14
+
+Created at Domestic Airport,06:55
+Departs from Domestic Airport,07:04
+Arrives & departs International Airport,07:08
+Arrives & departs Eagle Junction,07:15
+Arrives & departs Wooloowin,07:17
+Arrives & departs Albion,07:19
+Arrives & departs Bowen Hills,07:23
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:24
+
+
+VLBD Varsity Lakes to Domestic Airport P1; Mass 270Te; Power 3000kW; Brake force 31Te; Maximum speed 140 km/h
+,DP11
+
+Enters at City Down Suburban,07:05
+Arrives & departs Bowen Hills,07:06
+Arrives & departs Albion,07:10
+Arrives & departs Wooloowin,07:12
+Arrives & departs Eagle Junction,07:14
+Arrives & departs International Airport,07:22
+Arrives at Domestic Airport,07:25
+Changes direction at Domestic Airport,07:27
+At Domestic Airport forms new service,DG16 at 07:28
+
+
+BDVL Domestic Airport to Varsity Lakes
+,DG16
+
+New service at Domestic Airport from,DP11 at 07:28
+Departs from Domestic Airport,07:34
+Arrives & departs International Airport,07:38
+Arrives & departs Eagle Junction,07:45
+Arrives & departs Wooloowin,07:47
+Arrives & departs Albion,07:49
+Arrives & departs Bowen Hills,07:53
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:54
+
+
+VLBD Varsity Lakes to Domestic Airport P2; Mass 270Te; Power 3000kW; Brake force 34Te; Maximum speed 140 km/h
+,DP13
+
+Enters at City Down Suburban,07:20
+Arrives & departs Bowen Hills,07:21
+Arrives & departs Albion,07:25
+Arrives & departs Wooloowin,07:27
+Arrives & departs Eagle Junction,07:29
+Arrives & departs International Airport,07:37
+Arrives at Domestic Airport,07:40
+Changes direction at Domestic Airport,07:42
+At Domestic Airport forms new service,DS34 at 07:43
+
+
+BDBR Domestic Airport to Boggo Road
+,DS34
+
+New service at Domestic Airport from,DP13 at 07:43
+Departs from Domestic Airport,07:49
+Arrives & departs International Airport,07:53
+Arrives & departs Eagle Junction,08:00
+Arrives & departs Wooloowin,08:02
+Arrives & departs Albion,08:04
+Arrives & departs Bowen Hills,08:08
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:09
+
+
+VLBD Varsity Lakes to Domestic Airport P1; Mass 275Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,DP15
+
+Enters at City Down Suburban,07:35
+Arrives & departs Bowen Hills,07:36
+Arrives & departs Albion,07:40
+Arrives & departs Wooloowin,07:42
+Arrives & departs Eagle Junction,07:44
+Arrives & departs International Airport,07:52
+Arrives at Domestic Airport,07:55
+Changes direction at Domestic Airport,07:57
+At Domestic Airport forms new service,DG18 at 07:58
+
+
+BDVL Domestic Airport to Varsity Lakes
+,DG18
+
+New service at Domestic Airport from,DP15 at 07:58
+Departs from Domestic Airport,08:04
+Arrives & departs International Airport,08:08
+Arrives & departs Eagle Junction,08:15
+Arrives & departs Wooloowin,08:17
+Arrives & departs Albion,08:19
+Arrives & departs Bowen Hills,08:23
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:24
+
+
+VLBD Varsity Lakes to Domestic Airport P2; Mass 270Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,DP17
+
+Enters at City Down Suburban,07:50
+Arrives & departs Bowen Hills,07:51
+Arrives & departs Albion,07:55
+Arrives & departs Wooloowin,07:57
+Arrives & departs Eagle Junction,07:59
+Arrives & departs International Airport,08:07
+Arrives at Domestic Airport,08:10
+Changes direction at Domestic Airport,08:12
+At Domestic Airport forms new service,DS40 at 08:13
+
+
+BDBR Domestic Airport to Boggo Road
+,DS40
+
+New service at Domestic Airport from,DP17 at 08:13
+Departs from Domestic Airport,08:19
+Arrives & departs International Airport,08:23
+Arrives & departs Eagle Junction,08:30
+Arrives & departs Wooloowin,08:32
+Arrives & departs Albion,08:34
+Arrives & departs Bowen Hills,08:38
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:39
+
+
+VLBD Varsity Lakes to Domestic Airport P1; Mass 270Te; Power 3000kW; Brake force 30Te; Maximum speed 140 km/h
+,DP19
+
+Enters at City Down Suburban,08:05
+Arrives & departs Bowen Hills,08:06
+Arrives & departs Albion,08:10
+Arrives & departs Wooloowin,08:12
+Arrives & departs Eagle Junction,08:14
+Arrives & departs International Airport,08:22
+Arrives at Domestic Airport,08:25
+Changes direction at Domestic Airport,08:27
+At Domestic Airport forms new service,DG20 at 08:28
+
+
+BDVL Domestic Airport to Varsity Lakes
+,DG20
+
+New service at Domestic Airport from,DP19 at 08:28
+Departs from Domestic Airport,08:34
+Arrives & departs International Airport,08:38
+Arrives & departs Eagle Junction,08:45
+Arrives & departs Wooloowin,08:47
+Arrives & departs Albion,08:49
+Arrives & departs Bowen Hills,08:53
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:54
+
+
+VLBD Varsity Lakes to Domestic Airport P2; Mass 278Te; Power 3000kW; Brake force 34Te; Maximum speed 140 km/h
+,DP21
+
+Enters at City Down Suburban,08:20
+Arrives & departs Bowen Hills,08:21
+Arrives & departs Albion,08:25
+Arrives & departs Wooloowin,08:27
+Arrives & departs Eagle Junction,08:29
+Arrives & departs International Airport,08:37
+Arrives at Domestic Airport,08:40
+Changes direction at Domestic Airport,08:42
+At Domestic Airport forms new service,DR14 at 08:43
+
+
+BDBR Domestic Airport to Roma Street
+,DR14
+
+New service at Domestic Airport from,DP21 at 08:43
+Departs from Domestic Airport,08:49
+Arrives & departs International Airport,08:53
+Arrives & departs Eagle Junction,09:00
+Arrives & departs Wooloowin,09:02
+Arrives & departs Albion,09:04
+Arrives & departs Bowen Hills,09:08
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:09
+
+
+VLBD Varsity Lakes to Domestic Airport P1; Mass 270Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,DP23
+
+Enters at City Down Suburban,08:35
+Arrives & departs Bowen Hills,08:36
+Arrives & departs Albion,08:40
+Arrives & departs Wooloowin,08:42
+Arrives & departs Eagle Junction,08:44
+Arrives & departs International Airport,08:52
+Arrives at Domestic Airport,08:55
+Changes direction at Domestic Airport,08:57
+At Domestic Airport forms new service,DG22 at 08:58
+
+
+BDVL Domestic Airport to Varsity Lakes
+,DG22
+
+New service at Domestic Airport from,DP23 at 08:58
+Departs from Domestic Airport,09:04
+Arrives & departs International Airport,09:08
+Arrives & departs Eagle Junction,09:15
+Arrives & departs Wooloowin,09:17
+Arrives & departs Albion,09:19
+Arrives & departs Bowen Hills,09:23
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:24
+
+
+VLBD Varsity Lakes to Domestic Airport P2; Mass 272Te; Power 3000kW; Brake force 33Te; Maximum speed 140 km/h
+,DP25
+
+Enters at City Down Suburban,08:50
+Arrives & departs Bowen Hills,08:51
+Arrives & departs Albion,08:55
+Arrives & departs Wooloowin,08:57
+Arrives & departs Eagle Junction,08:59
+Arrives & departs International Airport,09:07
+Arrives at Domestic Airport,09:10
+Changes direction at Domestic Airport,09:12
+At Domestic Airport forms new service,DS46 at 09:13
+
+
+BDBR Domestic Airport to Boggo Road
+,DS46
+
+New service at Domestic Airport from,DP25 at 09:13
+Departs from Domestic Airport,09:19
+Arrives & departs International Airport,09:23
+Arrives & departs Eagle Junction,09:30
+Arrives & departs Wooloowin,09:32
+Arrives & departs Albion,09:34
+Arrives & departs Bowen Hills,09:38
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:39
+
+
+VLBD Varsity Lakes to Domestic Airport P1; Mass 275Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,DP27
+
+Enters at City Down Suburban,09:05
+Arrives & departs Bowen Hills,09:06
+Arrives & departs Albion,09:10
+Arrives & departs Wooloowin,09:12
+Arrives & departs Eagle Junction,09:14
+Arrives & departs International Airport,09:22
+Arrives at Domestic Airport,09:25
+Changes direction at Domestic Airport,09:27
+At Domestic Airport forms new service,DG24 at 09:28
+
+
+BDVL Domestic Airport to Varsity Lakes
+,DG24
+
+New service at Domestic Airport from,DP27 at 09:28
+Departs from Domestic Airport,09:34
+Arrives & departs International Airport,09:38
+Arrives & departs Eagle Junction,09:45
+Arrives & departs Wooloowin,09:47
+Arrives & departs Albion,09:49
+Arrives & departs Bowen Hills,09:53
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:54
+
+
+BRBD Boggo Road to Domestic Airport P2; Mass 271Te; Power 3000kW; Brake force 34Te; Maximum speed 140 km/h
+,DP29
+
+Enters at City Down Suburban,09:20
+Arrives & departs Bowen Hills,09:21
+Arrives & departs Albion,09:25
+Arrives & departs Wooloowin,09:27
+Arrives & departs Eagle Junction,09:29
+Arrives & departs International Airport,09:37
+Arrives at Domestic Airport,09:40
+Changes direction at Domestic Airport,09:42
+At Domestic Airport forms new service,DS48 at 09:43
+
+
+BDBR Domestic Airport to Boggo Road
+,DS48
+
+New service at Domestic Airport from,DP29 at 09:43
+Departs from Domestic Airport,09:49
+Arrives & departs International Airport,09:53
+Arrives & departs Eagle Junction,10:00
+Arrives & departs Wooloowin,10:02
+Arrives & departs Albion,10:04
+Arrives & departs Bowen Hills,10:08
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,10:09
+
+
+VLBD Varsity Lakes to Domestic Airport P1; Mass 270Te; Power 3000kW; Brake force 32Te; Maximum speed 140 km/h
+,DP31
+
+Enters at City Down Suburban,09:35
+Arrives & departs Bowen Hills,09:36
+Arrives & departs Albion,09:40
+Arrives & departs Wooloowin,09:42
+Arrives & departs Eagle Junction,09:44
+Arrives & departs International Airport,09:52
+Arrives at Domestic Airport,09:55
+Changes direction at Domestic Airport,09:57
+At Domestic Airport forms new service,DG26 at 09:58
+
+
+BDVL Domestic Airport to Varsity Lakes
+,DG26
+
+New service at Domestic Airport from,DP31 at 09:58
+Departs from Domestic Airport,10:04
+Arrives & departs International Airport,10:08
+Arrives at Eagle Junction,10:15
+Terminates at Eagle Junction,10:15
+
+
+BRBD Roma Street to Domestic Airport P2; Mass 270Te; Power 2880kW; Brake force 32Te; Maximum speed 120 km/h
+,TP33
+
+Enters at City Down Suburban,09:50
+Arrives & departs Bowen Hills,09:51
+Arrives & departs Albion,09:55
+Arrives & departs Wooloowin,09:57
+Arrives & departs Eagle Junction,09:59
+Arrives & departs International Airport,10:07
+Arrives at Domestic Airport,10:10
+Terminates at Domestic Airport,10:10
+
+
+DBBR Doomben to Roma Street; Mass 260Te; Power 2880kW; Brake force 35Te; Maximum speed 130 km/h
+,1R02
+
+Created at Doomben,06:55
+Departs from Doomben,06:58
+Arrives & departs Ascot,07:01
+Arrives & departs Hendra,07:03
+Arrives & departs Clayfield,07:05
+Arrives at Eagle Junction,07:07
+Departs from Eagle Junction,07:08
+Arrives & departs Wooloowin,07:10
+Arrives & departs Albion,07:12
+Arrives & departs Bowen Hills,07:16
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:17
+
+
+BRDB Roma Street to Doomben; Mass 275Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,DB07
+
+Enters at City Down Suburban,06:57
+Arrives & departs Bowen Hills,06:58
+Arrives & departs Albion,07:02
+Arrives & departs Wooloowin,07:04
+Arrives at Eagle Junction,07:06
+Departs from Eagle Junction,07:07
+Arrives & departs Clayfield,07:10
+Arrives & departs Hendra,07:12
+Arrives & departs Ascot,07:14
+Arrives at Doomben,07:16
+Changes direction at Doomben,07:18
+At Doomben forms new service,DR04 at 07:19
+
+
+DBBR Doomben to Roma Street
+,DR04
+
+New service at Doomben from,DB07 at 07:19
+Departs from Doomben,07:28
+Arrives & departs Ascot,07:31
+Arrives & departs Hendra,07:33
+Arrives & departs Clayfield,07:35
+Arrives at Eagle Junction,07:37
+Departs from Eagle Junction,07:38
+Arrives & departs Wooloowin,07:40
+Arrives & departs Albion,07:42
+Arrives & departs Bowen Hills,07:46
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,07:47
+
+
+VLDB Varsity Lakes to Doomben; Mass 272Te; Power 3000kW; Brake force 34Te; Maximum speed 140 km/h
+,DB09
+
+Enters at City Down Suburban,07:27
+Arrives & departs Bowen Hills,07:28
+Arrives & departs Albion,07:32
+Arrives & departs Wooloowin,07:34
+Arrives at Eagle Junction,07:36
+Departs from Eagle Junction,07:37
+Arrives & departs Clayfield,07:40
+Arrives & departs Hendra,07:42
+Arrives & departs Ascot,07:44
+Arrives at Doomben,07:46
+Changes direction at Doomben,07:48
+At Doomben forms new service,DR06 at 07:49
+
+
+DBBR Doomben to Roma Street
+,DR06
+
+New service at Doomben from,DB09 at 07:49
+Departs from Doomben,07:58
+Arrives & departs Ascot,08:01
+Arrives & departs Hendra,08:03
+Arrives & departs Clayfield,08:05
+Arrives at Eagle Junction,08:07
+Departs from Eagle Junction,08:08
+Arrives & departs Wooloowin,08:10
+Arrives & departs Albion,08:12
+Arrives & departs Bowen Hills,08:16
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:17
+
+
+VLDB Varsity Lakes to Doomben; Mass 270Te; Power 2880kW; Brake force 35Te; Maximum speed 130 km/h
+,TB11
+
+Enters at City Down Suburban,07:57
+Arrives & departs Bowen Hills,07:58
+Arrives & departs Albion,08:02
+Arrives & departs Wooloowin,08:04
+Arrives at Eagle Junction,08:06
+Departs from Eagle Junction,08:07
+Arrives & departs Clayfield,08:10
+Arrives & departs Hendra,08:12
+Arrives & departs Ascot,08:14
+Arrives at Doomben,08:16
+Changes direction at Doomben,08:18
+At Doomben forms new service,TS42 at 08:19
+
+
+DBBR Doomben to Boggo Road
+,TS42
+
+New service at Doomben from,TB11 at 08:19
+Departs from Doomben,08:28
+Arrives & departs Ascot,08:31
+Arrives & departs Hendra,08:33
+Arrives & departs Clayfield,08:35
+Arrives at Eagle Junction,08:37
+Departs from Eagle Junction,08:38
+Arrives & departs Wooloowin,08:40
+Arrives & departs Albion,08:42
+Arrives & departs Bowen Hills,08:46
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,08:47
+
+
+CLDB Cleveland to Doomben Express; Mass 271Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,DBU1
+
+Enters at City Down Suburban,08:27
+Arrives & departs Bowen Hills,08:28
+Arrives & departs Albion,08:32
+Arrives & departs Wooloowin,08:34
+Arrives at Eagle Junction,08:36
+Departs from Eagle Junction,08:37
+Arrives & departs Clayfield,08:40
+Arrives & departs Hendra,08:42
+Arrives & departs Ascot,08:44
+Arrives at Doomben,08:46
+Changes direction at Doomben,08:48
+At Doomben forms new service,DR16 at 08:49
+
+
+DBBR Doomben to Roma Street
+,DR16
+
+New service at Doomben from,DBU1 at 08:49
+Departs from Doomben,08:58
+Arrives & departs Ascot,09:01
+Arrives & departs Hendra,09:03
+Arrives & departs Clayfield,09:05
+Arrives at Eagle Junction,09:07
+Departs from Eagle Junction,09:08
+Arrives & departs Wooloowin,09:10
+Arrives & departs Albion,09:12
+Arrives & departs Bowen Hills,09:16
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:17
+
+
+CLDB Manly to Doomben; Mass 265Te; Power 2880kW; Brake force 34Te; Maximum speed 130 km/h
+,TB15
+
+Enters at City Down Suburban,08:57
+Arrives & departs Bowen Hills,08:58
+Arrives & departs Albion,09:02
+Arrives & departs Wooloowin,09:04
+Arrives at Eagle Junction,09:06
+Departs from Eagle Junction,09:07
+Arrives & departs Clayfield,09:10
+Arrives & departs Hendra,09:12
+Arrives & departs Ascot,09:14
+Arrives at Doomben,09:16
+Changes direction at Doomben,09:18
+At Doomben forms new service,TR18 at 09:19
+
+
+DBBR Doomben to Roma Street
+,TR18
+
+New service at Doomben from,TB15 at 09:19
+Departs from Doomben,09:28
+Arrives & departs Ascot,09:31
+Arrives & departs Hendra,09:33
+Arrives & departs Clayfield,09:35
+Arrives at Eagle Junction,09:37
+Departs from Eagle Junction,09:38
+Arrives & departs Wooloowin,09:40
+Arrives & departs Albion,09:42
+Arrives & departs Bowen Hills,09:46
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,09:47
+
+
+BRDB Boggo Road to Doomben; Mass 274Te; Power 3000kW; Brake force 34Te; Maximum speed 140 km/h
+,DB17
+
+Enters at City Down Suburban,09:27
+Arrives & departs Bowen Hills,09:28
+Arrives & departs Albion,09:32
+Arrives & departs Wooloowin,09:34
+Arrives at Eagle Junction,09:36
+Departs from Eagle Junction,09:37
+Arrives & departs Clayfield,09:40
+Arrives & departs Hendra,09:42
+Arrives & departs Ascot,09:44
+Arrives at Doomben,09:46
+Changes direction at Doomben,09:48
+At Doomben forms new service,DR20 at 09:49
+
+
+DBBR Doomben to Roma Street
+,DR20
+
+New service at Doomben from,DB17 at 09:49
+Departs from Doomben,09:58
+Arrives & departs Ascot,10:01
+Arrives & departs Hendra,10:03
+Arrives & departs Clayfield,10:05
+Arrives at Eagle Junction,10:07
+Departs from Eagle Junction,10:08
+Arrives & departs Wooloowin,10:10
+Arrives & departs Albion,10:12
+Arrives & departs Bowen Hills,10:16
+Exits railway at City Up Suburban,
+allowable exit element(s): 2-19 ,10:17
+
+
+BRDB Roma Street to Doomben; Mass 271Te; Power 3000kW; Brake force 35Te; Maximum speed 140 km/h
+,DB19
+
+Enters at City Down Suburban,09:57
+Arrives & departs Bowen Hills,09:58
+Arrives & departs Albion,10:02
+Arrives & departs Wooloowin,10:04
+Arrives at Eagle Junction,10:06
+Departs from Eagle Junction,10:07
+Arrives & departs Clayfield,10:10
+Arrives & departs Hendra,10:12
+Arrives & departs Ascot,10:14
+Arrives at Doomben,10:16
+Terminates at Doomben,10:16
+
+
+Spirit of Queensland Cairns to Brisbane Tilt Train; Mass 430Te; Power 2700kW; Brake force 35Te; Maximum speed 160 km/h
+,V982
+
+Enters at Sunshine Coast,08:49
+Passes Petrie,08:50
+Passes Northgate,09:04
+Passes Eagle Junction Up Main,09:08
+Exits railway at Exhibition,
+allowable exit element(s): 10-8 ,09:14
+
+
+Bundaberg to Brisbane Tilt Train; Mass 310Te; Power 2720kW; Brake force 30Te; Maximum speed 160 km/h
+,Q994
+
+Enters at Sunshine Coast,09:21
+Passes Petrie,09:22
+Passes Northgate,09:36
+Passes Eagle Junction Up Main,09:40
+Exits railway at Exhibition,
+allowable exit element(s): 10-8 ,09:46
+
+
+Aurizon Intermodal Rockhampton to Fisherman Island; Mass 1650Te; Power 2380kW; Brake force 200Te; Maximum speed 100 km/h
+,Y874
+
+Enters at Sunshine Coast,09:42
+Passes Petrie,09:43
+Passes Northgate,10:01
+Passes Eagle Junction Up Main,10:05
+Exits railway at Exhibition,
+allowable exit element(s): 10-8 ,10:11
+
+
