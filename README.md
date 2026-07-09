@@ -1,7 +1,7 @@
 # Brisbane North
 The North Coast Main Line from Brisbane and associated suburban branch lines, by Fitzburger96.
 
-![Image of Current State of Map]('Images/Brisbane North.bmp')
+![Image of Current State of Map](Images/Brisbane-North.bmp)
 
 ## Current Status
 
