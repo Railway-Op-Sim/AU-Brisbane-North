@@ -1,4 +1,4 @@
-name: ROS Metadata Build
+name: RailOS Metadata Build
 
 on:
   push:
@@ -12,13 +12,13 @@ jobs:
     container:
       image: artemisbeta/railwayopsim-ci:latest
       env:
-        DEBIAN_FRONTEND : noninteractive
-        LANG : 'en_GB.UTF-8'
-        LANGUAGE : 'en_GB:en'
-        LC_ALL : 'en_GB.UTF-8'
+        DEBIAN_FRONTEND: noninteractive
+        LANG: "en_GB.UTF-8"
+        LANGUAGE: "en_GB:en"
+        LC_ALL: "en_GB.UTF-8"
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
@@ -35,14 +35,14 @@ jobs:
 
       - name: Commit to git
         run: |
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action"
-            git add $GITHUB_WORKSPACE/Metadata/*.toml
-            git commit -m "$GITHUB_RUN_ID:$RUNNER_NAME: Modified metadata for commit \"$GITHUB_SHA\""
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add $GITHUB_WORKSPACE/Metadata/*.toml
+          git commit -m "$GITHUB_RUN_ID:$RUNNER_NAME: Modified metadata for commit \"$GITHUB_SHA\""
         continue-on-error: true
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
-            branch: ${{ github.ref }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
