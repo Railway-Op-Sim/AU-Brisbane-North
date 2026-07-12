@@ -1,4 +1,4 @@
-name: ROS Metadata Build
+name: RailOS Metadata Build
 
 on:
   push:
@@ -18,7 +18,7 @@ jobs:
         LC_ALL : 'en_GB.UTF-8'
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
