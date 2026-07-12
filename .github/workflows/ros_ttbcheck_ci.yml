@@ -20,6 +20,6 @@ jobs:
           set -e
           for ttb in $(find -name "*.ttb"); do
             echo "Validating $ttb"
-            railostools validate $ttb || (echo "Validation failed." && exit 1)
+            railostools validate '$ttb' || (echo "Validation failed." && exit 1)
             echo "Validation succeeded."
           done
