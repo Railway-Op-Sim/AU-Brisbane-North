@@ -8,9 +8,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Setup Python for Parsing Output
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-            python-version: '3.13'
+            python-version: '3.14'
 
       - name: Install RailOSTools
         run: python -m pip install "git+https://github.com/Railway-Op-Sim/railostools.git@v0.6.1#egg=railostools&subdirectory=python"
